@@ -237,6 +237,7 @@ body {
   height: 200px;
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   margin-bottom: 10px;
 }
 
@@ -302,5 +303,17 @@ body {
   .container {
     width: 100%;
     padding: 0 15px;
+  }
+
+  .tablinks {
+    min-width: 160px;
+  }
+
+  .cards {
+    justify-content: space-around;
+  }
+
+  .card {
+    margin: 20px 0;
   }
 }
