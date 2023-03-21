@@ -5,7 +5,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Abomination-infinity.webp"
   },
   "Поглотитель": {
-    "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта имеет способность <b>«При раскрытии»</b>, эта карта копирует её.",
+    "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта имеет способность <b>«При раскрытии»</b> и находится в игре, копирует её текст.",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/AbsorbingMan-infinity.webp"
   },
@@ -15,7 +15,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/AdamWarlock-infinity.webp"
   },
   "Аэро": {
-    "descr": "<b>При раскрытии: </b>перемещает на эту локацию все карты противника, разыгранные на этом ходу.",
+    "descr": "<b>При раскрытии: </b>перемещает на эту локацию последнюю карту противника, разыгранную на этом ходу.",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Aero-infinity.webp"
   },
@@ -760,7 +760,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Mysterio-infinity.webp"
   },
   "Мистик": {
-    "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта имеет постоянную способность, эта карта получает её.",
+    "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта имеет постоянную способность и находится в игре, копирует её текст.",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mystique-infinity.webp"
   },
@@ -880,7 +880,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Quicksilver-infinity.webp"
   },
   "Квинджет": {
-    "descr": "<b>Постоянно: </b>карты, которых изначально не было в вашей колоде, стоят на 1 меньше.",
+    "descr": "<b>Постоянно: </b>карты, которых изначально не было в вашей колоде, стоят на 1 меньше (минимум 1).",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Quinjet-infinity.webp"
   },
@@ -905,7 +905,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/RedGuardian-infinity.webp"
   },
   "Красный Череп": {
-    "descr": "<b>Постоянно: </b>повышает силу вражеских карт в этой локации на 2.",
+    "descr": "<b>Постоянно: </b>повышает силу вражеских карт в этой локации на 1.",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/RedSkull-infinity.webp"
   },
@@ -1045,7 +1045,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SoulStone-infinity.webp"
   },
   "Камень Пространства": {
-    "descr": "<b>При раскрытии: </b>сможете переместить 1 карту из этой локации на следующем ходу. Вытягиваете карту.",
+    "descr": "<b>При раскрытии: </b>сможете переместить одну карту на эту локацию на следующем ходу. Берёте карту.",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpaceStone-infinity.webp"
   },
@@ -1130,7 +1130,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Symbiote-infinity.webp"
   },
   "Таскмастер": {
-    "descr": "<b>При раскрытии: </b>сила этой карты становится равной силе последней разыгранной вами карты.",
+    "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта находится в игре, даёт этой карте такую же силу.",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Taskmaster-infinity.webp"
   },
@@ -1285,7 +1285,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/WhiteTiger-infinity.webp"
   },
   "Укус Вдовы": {
-    "descr": "Если эта карта находится в вашей руке, то карты из вашей колоды не могут быть вытянуты.",
+    "descr": "Пока находится в вашей руке, вы не можете вытаскивать карты.",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/WidowsBite-infinity.webp"
   },
