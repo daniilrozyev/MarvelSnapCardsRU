@@ -71,7 +71,7 @@
   },
   "Аттума": {
     "descr": "Уничтожается, если в конце вашего хода здесь будет другая ваша карта.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Attuma-infinity.webp"
   },
   "Барон Мордо": {
@@ -231,7 +231,7 @@
   },
   "Ослепительная": {
     "descr": "<b>Постоянно: </b>если у вас есть 4 карт(ы) в каждой локации, +6 к силе.",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Dazzler-infinity.webp"
   },
   "Дэдпул": {
@@ -621,7 +621,7 @@
   },
   "М'Баку": {
     "descr": "Прыгнет на случайную локацию, если после финального хода будет находиться в колоде.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/MBaku-infinity.webp"
   },
   "Мэджик": {
@@ -836,7 +836,7 @@
   },
   "Орка": {
     "descr": "<b>Постоянно: </b>+5 к силе, если это ваша единственная карта здесь.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Orka-infinity.webp"
   },
   "Патриот": {
@@ -956,7 +956,7 @@
   },
   "Саурон": {
     "descr": "<b>При раскрытии: </b>убирает способности всех постоянных карт в вашей руке и колоде.",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sauron-infinity.webp"
   },
   "Алая Ведьма": {
@@ -986,7 +986,7 @@
   },
   "Король Теней": {
     "descr": "<b>При раскрытии: </b>возвращает всем картам здесь их базовую силу.",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/ShadowKing-infinity.webp"
   },
   "Шан-Чи": {
@@ -996,7 +996,7 @@
   },
   "Шанна": {
     "descr": "<b>При раскрытии: </b>добавляет случайную карту с базовой стоимостью 1 на каждую локацию.",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Shanna-infinity.webp"
   },
   "Женщина-Халк": {
@@ -1336,7 +1336,7 @@
   },
   "Забу": {
     "descr": "<b>Постоянно: </b>ваши карты с базовой стоимостью 4 теперь стоят на 1 меньше (но не менее 1).",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Zabu-infinity.webp"
   },
   "Зеро": {
