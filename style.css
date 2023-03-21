@@ -125,6 +125,7 @@ body {
   color: #b0bac5;
   font-size: 1em;
   text-align: center;
+  margin-bottom: 5px;
 }
 
 .forum-link-wrapper {
@@ -269,19 +270,68 @@ body {
   text-align: center;
 }
 
-@media (min-width: 1400px) {
+/* Btn-Up */
+.btn-up {
+  /* фиксированное позиционирование */
+  position: fixed;
+  /* цвет фона */
+  background-color: #9801e7;
+  /* расстояние от правого края окна браузера */
+  right: 20px;
+  /* расстояние от нижнего края окна браузера */
+  bottom: 0;
+  /* скругление верхнего левого угла */
+  border-top-left-radius: 8px;
+  /* скругление верхнего правого угла */
+  border-top-right-radius: 8px;
+  /* вид курсора */
+  cursor: pointer;
+  /* отображение элемента как flex */
+  display: flex;
+  /* выравниваем элементы внутри элемента по центру вдоль поперечной оси */
+  align-items: center;
+  /* выравниваем элементы внутри элемента по центру вдоль главной оси */
+  justify-content: center;
+  /* ширина элемента */
+  width: 60px;
+  /* высота элемента */
+  height: 50px;
+}
+
+.btn-up::before {
+  content: '';
+  width: 40px;
+  height: 40px;
+  background: transparent no-repeat center center;
+  background-size: 100% 100%;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23fff' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M7.646 4.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 5.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z'/%3E%3C/svg%3E");
+}
+
+.btn-up_hide {
+  display: none;
+}
+
+/* @media (hover: hover) and (pointer: fine) {
+  .btn-up:hover {
+    /* background-color: #9801e7; цвет заднего фона при наведении */
+/* outline: 1px solid white; */
+/* } */
+/* } */
+
+/* Media */
+/* @media (min-width: 1400px) {
   .container {
     max-width: 1320px;
   }
-}
+} */
 
-@media (max-width: 1400px) {
+/* @media (max-width: 1400px) {
   .container {
     max-width: 1140px;
   }
-}
+} */
 
-@media (max-width: 1200px) {
+/* @media (max-width: 1200px) {
   .container {
     max-width: 960px;
   }
@@ -292,17 +342,11 @@ body {
     max-width: 720px;
   }
 }
+ */
 
 @media (max-width: 768px) {
   .container {
     max-width: 540px;
-  }
-}
-
-@media (max-width: 576px) {
-  .container {
-    width: 100%;
-    padding: 0 15px;
   }
 
   .tablinks {
@@ -315,5 +359,32 @@ body {
 
   .card {
     margin: 20px 0;
+  }
+}
+
+@media (max-width: 576px) {
+  .container {
+    width: 100%;
+    padding: 0 15px;
+  }
+
+  /* .tablinks {
+    min-width: 160px;
+  }
+
+  .cards {
+    justify-content: space-around;
+  }
+
+  .card {
+    margin: 20px 0;
+  } */
+}
+
+@media (max-width: 509px) {
+  .btn-up {
+    width: 30px;
+    height: 30px;
+    right: 10px;
   }
 }
