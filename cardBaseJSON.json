@@ -439,6 +439,11 @@
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Hellcow-infinity.webp"
   },
+  "Высший Эволюционер": {
+    "descr": "В начале матча активирует секретные способности всех ваших карт без способностей.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/HighEvolutionary-infinity.webp"
+  },
   "Хит-Манки": {
     "descr": "<b>При раскрытии: </b>получает +2 к силе за каждую разыгранную вами карту на этом ходу.",
     "category": "Другое: Отсутствует в игре",
