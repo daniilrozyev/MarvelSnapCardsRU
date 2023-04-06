@@ -445,8 +445,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/HighEvolutionary-infinity.webp"
   },
   "Хит-Манки": {
-    "descr": "<b>При раскрытии: </b>получает +2 к силе за каждую разыгранную вами карту на этом ходу.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>При раскрытии: </b> +2 к силе за каждую разыгранную вами карту на этом ходу.",
+    "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/HitMonkey-infinity.webp"
   },
   "Хобгоблин": {
@@ -516,7 +516,7 @@
   },
   "Джефф Сухопутная Акула": {
     "descr": "Вы можете переместить эту карту один раз. Ничто не может помешать вам переместить или разыграть эту карту в любом месте.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/JeffTheBabyLandShark-infinity.webp"
   },
   "Джессика Джонс": {
@@ -561,7 +561,7 @@
   },
   "Китти Прайд": {
     "descr": "Эту карту можно вернуть обратно в руку и получить +2 к силе..",
-    "category": "Другое: Отсутствует в игре",
+    "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/KittyPryde-infinity.webp"
   },
   "Кло": {
@@ -1041,7 +1041,7 @@
   },
   "Сноугард": {
     "descr": "Находясь в вашей руке, эта карта превращается в Ястреба или Медведя на каждом ходу.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
   },
   "Камень Души": {
@@ -1086,7 +1086,7 @@
   },
   "Стегрон": {
     "descr": "<b>При раскрытии: </b>перемещает случайную карту противника отсюда в другую локацию.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stegron-infinity.webp"
   },
   "Шторм": {
