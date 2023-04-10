@@ -1046,12 +1046,12 @@
   },
   "Снежный Страж Ястреб": {
     "descr": "<b>При раскрытии: </b>на следующем ходу все способности локаций игнорируются.",
-    "category": "Пул 5",
+    "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/SnowguardHawk-infinity.webp"
   },
   "Снежный Страж Медведь": {
     "descr": "<b>При раскрытии: </b>активирует эффект этой локации.",
-    "category": "Пул 5",
+    "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/SnowguardBear-infinity.webp"
   },
   "Камень Души": {
