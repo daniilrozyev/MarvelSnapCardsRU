@@ -514,8 +514,8 @@
     "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/JeanGrey-infinity.webp"
   },
-  "Джефф Сухопутная Акула": {
-    "descr": "Вы можете переместить эту карту один раз. Ничто не может помешать вам переместить или разыграть эту карту в любом месте.",
+  "Сухопутный акулёнок Джефф": {
+    "descr": "Эту карту можно переместить один раз. Разыгрывайте её на любой локации или перемещайте туда.",
     "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/JeffTheBabyLandShark-infinity.webp"
   },
@@ -1039,8 +1039,18 @@
     "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSurfer-infinity.webp"
   },
-  "Сноугард": {
-    "descr": "Находясь в вашей руке, эта карта превращается в Ястреба или Медведя на каждом ходу.",
+  "Снежный Страж": {
+    "descr": "Находясь в вашей руке, эта карта каждый ход превращается в Сокола или Медведя.",
+    "category": "Пул 5",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
+  },
+  "Снежный Страж Ястреб": {
+    "descr": "<b>При раскрытии: </b>на следующем ходу все способности локаций игнорируются.",
+    "category": "Пул 5",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
+  },
+  "Снежный Страж Медведь": {
+    "descr": "<b>При раскрытии: </b>активирует эффект этой локации.",
     "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
   },
@@ -1085,7 +1095,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Stature-infinity.webp"
   },
   "Стегрон": {
-    "descr": "<b>При раскрытии: </b>перемещает случайную карту противника отсюда в другую локацию.",
+    "descr": "<b>При раскрытии: </b>перемещает вражескую карту из этой локации в другую.",
     "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stegron-infinity.webp"
   },
