@@ -615,7 +615,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Lizard-infinity.webp"
   },
   "Локджо": {
-    "descr": "Заменяет разыгранную вами здесь карту на карту из вашей колоды.",
+    "descr": "После того, как вы разыгрываете здесь карту, заменяет её на карту из вашей колоды ()один раз за ход.",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Lockjaw-infinity.webp"
   },
