@@ -35,7 +35,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/AgentCoulson-infinity.webp"
   },
   "Америка Чавес": {
-    "descr": "Вы всегда берёте эту карту на 6-м ходу, не раньше.",
+    "descr": "Начинается снизу вашей колоды. Вытаскиваете эту карту на 6-м ходу.",
     "category": "Пул 1",
     "imgUrl": "https://static.marvelsnap.pro/cards/AmericaChavez-infinity.webp"
   },
@@ -525,7 +525,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/JessicaJones-infinity.webp"
   },
   "Джубили": {
-    "descr": "<b>При раскрытии: </b>добавляет карту из вашей колоды в эту локацию.",
+    "descr": "<b>При раскрытии: </b>добавляет карту с верха колоды на эту локацию.",
     "category": "Пул 2",
     "imgUrl": "https://static.marvelsnap.pro/cards/Jubilee-infinity.webp"
   },
@@ -595,12 +595,12 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/LadySif-infinity.webp"
   },
   "Лидер": {
-    "descr": "<b>При раскрытии: </b>копирует все сыгранные противником карты на этом ходу на локацию справа от этой, но на вашу сторону.",
+    "descr": "<b>При раскрытии: </b>копирует разыгранные на этом ходу вражеские карты (или карту) с самой высокой силой, но на вашу сторону.",
     "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Leader-infinity.webp"
   },
   "Пиявка": {
-    "descr": "<b>При раскрытии: </b>убирает способности у всех карт в руке противника.",
+    "descr": "В начале 6-го хода удаляет все способности карт в руке вашего противника.",
     "category": "Пул 2",
     "imgUrl": "https://static.marvelsnap.pro/cards/Leech-infinity.webp"
   },
@@ -1015,7 +1015,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Shocker-infinity.webp"
   },
   "Шури": {
-    "descr": "<b>При раскрытии: </b>x2 к силе следующей карты, которую вы разыграете.",
+    "descr": "<b>При раскрытии: </b>если вы разыграете здесь свою следующую карту, удваивает её силу.",
     "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Shuri-infinity.webp"
   },
