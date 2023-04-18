@@ -560,7 +560,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Kingpin-infinity.webp"
   },
   "Китти Прайд": {
-    "descr": "Эту карту можно вернуть обратно в руку и получить +2 к силе..",
+    "descr": "Когда эта карта возвращается в вашу руку, она получает +2 к силе. Возвращается в вашу руку вначале каждого хода.",
     "category": "Пул 5",
     "imgUrl": "https://static.marvelsnap.pro/cards/KittyPryde-infinity.webp"
   },
