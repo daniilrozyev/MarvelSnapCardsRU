@@ -81,7 +81,7 @@
   },
   "Баст": {
     "descr": "<b>При раскрытии: </b>меняет силу всех карт в вашей руке на 3.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Bast-infinity.webp"
   },
   "Зверь": {
@@ -111,7 +111,7 @@
   },
   "Чёрная Пантера": {
     "descr": "<b>При раскрытии: </b>удваивает силу этой карты.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackPanther-infinity.webp"
   },
   "Чёрная Вдова": {
@@ -366,7 +366,7 @@
   },
   "Призрак": {
     "descr": "<b>Постоянно: </b>ваши карты всегда раскрываются последними (их способности при раскрытии активируются в последнюю очередь).",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Ghost-infinity.webp"
   },
   "Призрачный Гонщик": {
@@ -716,7 +716,7 @@
   },
   "МОДОК": {
     "descr": "<b>При раскрытии: </b>сбрасывает вашу руку.",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Modok-infinity.webp"
   },
   "Моджо": {
@@ -1016,7 +1016,7 @@
   },
   "Шури": {
     "descr": "<b>При раскрытии: </b>если вы разыграете здесь свою следующую карту, удваивает её силу.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Shuri-infinity.webp"
   },
   "Шёлк": {
@@ -1091,7 +1091,7 @@
   },
   "Высота": {
     "descr": "Стоит 1, если противник сбрасывал карту из своей руки в этой игре.",
-    "category": "Пул 5",
+    "category": "Пул 4",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stature-infinity.webp"
   },
   "Стегрон": {
@@ -1121,7 +1121,7 @@
   },
   "Супер-скрулл": {
     "descr": "<b>Постоянно: </b>обладает постоянными эффектами всех карт противника.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/SuperSkrull-infinity.webp"
   },
   "Суртур": {
@@ -1236,7 +1236,7 @@
   },
   "Валькирия": {
     "descr": "<b>При раскрытии: </b>меняет силу ВСЕХ карт в этой локации на 3.",
-    "category": "Пул 4",
+    "category": "Пул 3",
     "imgUrl": "https://static.marvelsnap.pro/cards/Valkyrie-infinity.webp"
   },
   "Веном": {
