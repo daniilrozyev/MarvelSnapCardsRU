@@ -610,7 +610,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Legion-infinity.webp"
   },
   "Ящер": {
-    "descr": "<b>Постоянно: </b>-3 к силе, если у противника есть карты (4шт.) здесь.",
+    "descr": "<b>Постоянно: </b>-4 к силе, если у противника есть карты (4шт.) здесь.",
     "category": "Пул 1",
     "imgUrl": "https://static.marvelsnap.pro/cards/Lizard-infinity.webp"
   },
