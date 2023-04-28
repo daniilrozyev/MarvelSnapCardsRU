@@ -6,47 +6,47 @@
   },
   "Поглотитель": {
     "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта имеет способность <b>«При раскрытии»</b> и находится в игре, копирует её текст.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/AbsorbingMan-infinity.webp"
   },
   "Адам Уорлок": {
     "descr": "Вытягиваете карту в конце каждого хода, если вы побеждаете на этой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/AdamWarlock-infinity.webp"
   },
   "Аэро": {
     "descr": "<b>При раскрытии: </b>перемещает на эту локацию последнюю карту противника, разыгранную на этом ходу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Aero-infinity.webp"
   },
   "Агата Харкнесс": {
     "descr": "Агата оказывается в стартовой руке и разыгрывает ваши карты за вас.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/AgathaHarkness-infinity.webp"
   },
   "Агент 13": {
     "descr": "<b>При раскрытии: </b>добавляет в вашу руку случайную карту.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Agent13-infinity.webp"
   },
   "Агент Колсон": {
     "descr": "<b>При раскрытии: </b>добавляет случайные карты с базовой стоимостью 4 и 5 в вашу руку.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/AgentCoulson-infinity.webp"
   },
   "Америка Чавес": {
     "descr": "Начинается снизу вашей колоды. Вытаскиваете эту карту на 6-м ходу.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/AmericaChavez-infinity.webp"
   },
   "Ангел": {
     "descr": "Когда одна из ваших карт уничтожена, эта карта вылетит из колоды и заменит её.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Angel-infinity.webp"
   },
   "Анжела": {
     "descr": "Если вы разыгрываете здесь карту, +2 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Angela-infinity.webp"
   },
   "Человек-муравей": {
@@ -56,52 +56,52 @@
   },
   "Апокалипсис": {
     "descr": "Когда вы сбрасываете эту карту из своей руки, она возвращается с силой +4.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Apocalypse-infinity.webp"
   },
   "Броня": {
     "descr": "<b>Постоянно: </b>карты на этой локации нельзя уничтожить.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Armor-infinity.webp"
   },
   "Арним Зола": {
     "descr": "<b>При раскрытии: </b>уничтожает случайную дружественную карту здесь. Добавляет по одной её копии на другие локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ArnimZola-infinity.webp"
   },
   "Аттума": {
     "descr": "Уничтожается, если в конце вашего хода здесь будет другая ваша карта.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Attuma-infinity.webp"
   },
   "Барон Мордо": {
     "descr": "<b>При раскрытии: </b>ваш противник вытягивает карту, её стоимость теперь составит 6.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BaronMordo-infinity.webp"
   },
   "Баст": {
     "descr": "<b>При раскрытии: </b>меняет силу всех карт в вашей руке на 3.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Bast-infinity.webp"
   },
   "Зверь": {
     "descr": "<b>При раскрытии: </b> возвращает остальные ваши карты из этой локации в вашу руку. Эти карты теперь стоят на 1 меньше.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Beast-infinity.webp"
   },
   "Бишоп": {
     "descr": "Если вы разыграете карту, получает +1 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Bishop-infinity.webp"
   },
   "Чёрный Гром": {
     "descr": "<b>При раскрытии: </b>ваш противник должен сбросить карту с наименьшей текущей стоимостью со своей руки.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackBolt-infinity.webp"
   },
   "Чёрная Кошка": {
     "descr": "Если эта карта остаётся в вашей руке к концу хода, сбрасывает её.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackCat-infinity.webp"
   },
   "Чёрный Рыцарь": {
@@ -111,17 +111,17 @@
   },
   "Чёрная Пантера": {
     "descr": "<b>При раскрытии: </b>удваивает силу этой карты.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackPanther-infinity.webp"
   },
   "Чёрная Вдова": {
     "descr": "<b>При раскрытии: </b>добавляет карту «Укус Вдовы» в руку вашего противника.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackWidow-infinity.webp"
   },
   "Блэйд": {
     "descr": "<b>При раскрытии: </b>сбрасывает карту с вашей руки.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Blade-infinity.webp"
   },
   "Блинк": {
@@ -141,12 +141,12 @@
   },
   "Бруд": {
     "descr": "<b>При раскрытии: </b>добавляет брудлингов (2) с этой же силой в эту локацию.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Brood-infinity.webp"
   },
   "Баки Барнс": {
     "descr": "При уничтожении создаёт карту «Зимний Солдат» вместо себя.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BuckyBarnes-infinity.webp"
   },
   "Меченый": {
@@ -156,37 +156,37 @@
   },
   "Кейбл": {
     "descr": "<b>При раскрытии: </b>кладёт нижнюю карту из колоды противника в вашу руку.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Cable-infinity.webp"
   },
   "Капитан Америка": {
     "descr": "<b>Постоянно: </b>другие ваши карты в этой локации получают +1 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/CaptainAmerica-infinity.webp"
   },
   "Капитан Марвел": {
     "descr": "После финального хода перемещается на локацию, которая позволит вам победить в мате (если это возможно).",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/CaptainMarvel-infinity.webp"
   },
   "Карнаж": {
     "descr": "<b>При раскрытии: </b> уничтожает остальные ваши карты здесь. +2 к силе за каждую уничтоженную карту.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Carnage-infinity.webp"
   },
   "Церебро": {
     "descr": "<b>Постоянно: </b>ваши карты с наивысшей силой получают +2 к силе.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Cerebro-infinity.webp"
   },
   "Плащ": {
     "descr": "<b>При раскрытии: </b>оба игрока смогут перемещать сюда карты на следующем ходу.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Cloak-infinity.webp"
   },
   "Коллин Винг": {
     "descr": "<b>При раскрытии: </b>сбрасывает карту с наименьшей текущей стоимостью с вашей руки.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ColleenWing-infinity.webp"
   },
   "Колосс": {
@@ -196,17 +196,17 @@
   },
   "Космо": {
     "descr": "<b>Постоянно: </b>способности <b>«При раскрытии»</b> не будут срабатывать на этой локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Cosmo-infinity.webp"
   },
   "Кроссбоунс": {
     "descr": "Эту карту можно разыгрывать только там, где вы выигрываете.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Crossbones-infinity.webp"
   },
   "Кристалл": {
     "descr": "<b>При раскрытии: </b>если эта карта находится в средней локации, подтасовывает вашу руку в вашу колоду и вытягивает 3 карт(ы).",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Crystal-infinity.webp"
   },
   "Циклоп": {
@@ -216,42 +216,42 @@
   },
   "Кинжал": {
     "descr": "Перемещаясь в локацию, получает +2 к силе за каждую вражескую карту там.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Dagger-infinity.webp"
   },
   "Сорвиголова": {
     "descr": "На 5-м ходу вы увидите ход оппонента до того, как начнёте ходить сами.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Daredevil-infinity.webp"
   },
   "Тёмный Ястреб": {
     "descr": "<b>Постоянно: </b>+2 к силе за каждую карту в колоде вашего противника.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Darkhawk-infinity.webp"
   },
   "Ослепительная": {
     "descr": "<b>Постоянно: </b>если у вас есть 4 карт(ы) в каждой локации, +6 к силе.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Dazzler-infinity.webp"
   },
   "Дэдпул": {
     "descr": "При уничтожении эта карта вернётся в руку и удвоит свою силу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Deadpool-infinity.webp"
   },
   "Смерть": {
     "descr": "Будет стоить на 1 меньше за каждую карту, уничтоженную в этой игре.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Death-infinity.webp"
   },
   "Детлок": {
     "descr": "<b>При раскрытии: </b>уничтожает другие ваши карты в этой локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Deathlok-infinity.webp"
   },
   "Дэбри": {
     "descr": "<b>При раскрытии: </b>добавляет карту «Скала» во все остальные локации для каждого игрока.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Debrii-infinity.webp"
   },
   "Демон": {
@@ -261,32 +261,32 @@
   },
   "Разрушитель": {
     "descr": "<b>При раскрытии: </b>уничтожает другие ваши карты.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Destroyer-infinity.webp"
   },
   "Дьявольский Динозавр": {
     "descr": "<b>Постоянно: </b>+2 к силе за каждую карту в вашей руке.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/DevilDinosaur-infinity.webp"
   },
   "Доктор Дум": {
     "descr": "<b>При раскрытии: </b>добавляет карту «Думбот» с силой 5 во все другие локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/DrDoom-infinity.webp"
   },
   "Доктор Осьминог": {
     "descr": "<b>При раскрытии: </b>перемещает 4 случайные карт(ы) из руки противника на его сторону этой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/DoctorOctopus-infinity.webp"
   },
   "Доктор Стрэндж": {
     "descr": "<b>При раскрытии: </b>перемещает вашу карту с наибольшей силой на эту локацию.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/DoctorStrange-infinity.webp"
   },
   "Домино": {
     "descr": "Вы всегда берёте эту карту на 2-м ходу, не раньше.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Domino-infinity.webp"
   },
   "Думбот": {
@@ -296,12 +296,12 @@
   },
   "Дракула": {
     "descr": "Сбрасывает карту с вашей руки после финального хода. Эта карта получит силу сброшенной.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Dracula-infinity.webp"
   },
   "Дракс": {
     "descr": "<b>При раскрытии: </b>если противник разыграл карту здесь на этом ходу, +3 к силе.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Drax-infinity.webp"
   },
   "Дрон": {
@@ -311,17 +311,17 @@
   },
   "Эбони Мо": {
     "descr": "Эту карту нельзя разыграть после 3-го хода. <b>Постоянно: </b>здесь нельзя разыгрывать карты.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/EbonyMaw-infinity.webp"
   },
   "Электро": {
     "descr": "<b>При раскрытии: </b>+1 к макс. энергии. <b>Постоянно: </b>за ход можно разыграть только 1 карту.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Electro-infinity.webp"
   },
   "Электра": {
     "descr": "<b>При раскрытии: </b>уничтожает случайную вражескую карту с базовой силой стоимостью 1 в этой локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Elektra-infinity.webp"
   },
   "Эльза Бладстоун": {
@@ -331,12 +331,12 @@
   },
   "Чаровница": {
     "descr": "<b>При раскрытии: </b>убирает постоянные способности всех карт на этой локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Enchantress-infinity.webp"
   },
   "Сокол": {
     "descr": "<b>При раскрытии: </b>возвращает ваши карты с базовой стоимостью 1 в вашу руку.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Falcon-infinity.webp"
   },
   "Плоский Человек": {
@@ -346,17 +346,17 @@
   },
   "Кузнец": {
     "descr": "<b>При раскрытии: </b>даст следующей карте, которую вы разыграете, +2 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Forge-infinity.webp"
   },
   "Галактус": {
     "descr": "<b>При раскрытии: </b>уничтожает все другие локации, если это единственная ваша карта здесь.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Galactus-infinity.webp"
   },
   "Гамбит": {
     "descr": "<b>При раскрытии: </b>сбрасывает карту с вашей руки. Уничтожает случайную карту противника.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Gambit-infinity.webp"
   },
   "Гамора": {
@@ -366,12 +366,12 @@
   },
   "Призрак": {
     "descr": "<b>Постоянно: </b>ваши карты всегда раскрываются последними (их способности при раскрытии активируются в последнюю очередь).",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Ghost-infinity.webp"
   },
   "Призрачный Гонщик": {
     "descr": "<b>При раскрытии: </b>возвращает одну из ваших сброшенных ранее карт на эту локацию.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/GhostRider-infinity.webp"
   },
   "Призрак-Паук": {
@@ -381,7 +381,7 @@
   },
   "Гиганто": {
     "descr": "Эту карту можно разыграть только на локации слева.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Giganto-infinity.webp"
   },
   "Королева Гоблинов": {
@@ -391,17 +391,17 @@
   },
   "Гуся": {
     "descr": "<b>Постоянно: </b>никто не может разыгрывать карты, которые стоят 4, 5 или 6, в этой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Goose-infinity.webp"
   },
   "Зелёный Гоблин": {
     "descr": "<b>При раскрытии: </b>переходит под контроль противника.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/GreenGoblin-infinity.webp"
   },
   "Грут": {
     "descr": "<b>При раскрытии: </b>если противник разыграл карту здесь на этом ходу, +2 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Groot-infinity.webp"
   },
   "Гвенпул": {
@@ -416,43 +416,83 @@
   },
   "Хазмат": {
     "descr": "<b>При раскрытии: </b>снижает силу всех остальных карт на 1.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Hazmat-infinity.webp"
   },
   "Хеймдалль": {
     "descr": "<b>При раскрытии: </b>перемещает ваши другие карты на одну локацию влево.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Heimdall-infinity.webp"
   },
   "Хела": {
     "descr": "<b>При раскрытии: </b>восстанавливает все ваши сброшенные карты на случайных локациях.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Hela-infinity.webp"
   },
   "Геликарриер": {
     "descr": "При сбросе из вашей руки добавляет случайные карты (3шт.) в неё.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Helicarrier-infinity.webp"
   },
   "Адская корова": {
     "descr": "<b>При раскрытии: </b>сбрасывает 2 карт(ы) из вашей руки.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Hellcow-infinity.webp"
   },
   "Высший Эволюционер": {
-    "descr": "В начале матча активирует секретные способности всех ваших карт без способностей.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "В начале матча раскройте потенциал ваших карт без способностей.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HighEvolutionary-infinity.webp"
+  },
+  "Эволюционировавшая Мерзость": {
+    "descr": "Стоит на 1 меньше за каждую находящуюся в игре вражескую карту, со сниженной силой.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Abomination-infinity.webp"
+  },
+  "Эволюционировавший Циклоп": {
+    "descr": "Если в конце хода у вас остаётся неизрасходованная энергия, сила 2-х случайных вражеских карт здесь будет снижена на 1.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Cyclops-infinity.webp"
+  },
+  "Эволюционировавший Халк": {
+    "descr": "<b>Постоянно: </b>получает +2 к силе за каждый ход, который вы закончили с неизрасходованной энергией.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Hulk-infinity.webp"
+  },
+  "Эволюционировавшая Мисти Найт": {
+    "descr": "За каждое неизрасходованное очко энергии в конце каждого хода даёт другой дружественной карте +1 к силе.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/MistyKnight-infinity.webp"
+  },
+  "Эволюционировавший Шокер": {
+    "descr": "<b>При раскрытии: </b>удешевляет стоимость самой левой карты в вашей руке на 1.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Shoker-infinity.webp"
+  },
+  "Эволюционировавшее Существо": {
+    "descr": "<b>При раскрытии: </b>снижает силу случайной вражеской карты здесь на 1. Повторяет этот эффект ещё два раза.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/TheThing-infinity.webp"
+  },
+  "Эволюционировавшая Оса": {
+    "descr": "<b>При раскрытии: </b>сила 2-х случайных вражеских карт здесь будет снижена на 1.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Wasp-infinity.webp"
   },
   "Хит-Манки": {
     "descr": "<b>При раскрытии: </b> +2 к силе за каждую разыгранную вами карту на этом ходу.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HitMonkey-infinity.webp"
   },
   "Хобгоблин": {
     "descr": "<b>При раскрытии: </b>переходит под контроль противника.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Hobgoblin-infinity.webp"
+  },
+  "Утка Говард": {
+    "descr": "<b>Постоянно: </b>коснитесь этой карты, чтобы увидеть верхнюю карту своей колоды.",
+    "category": "5 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/HowardTheDuck-infinity.webp"
   },
   "Халк": {
     "descr": "«ХАЛК КРУШИТЬ!»",
@@ -461,17 +501,17 @@
   },
   "Халбастер": {
     "descr": "<b>При раскрытии: </b>объединяется со случайной дружественной картой на этой локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Hulkbuster-infinity.webp"
   },
   "Человек-Факел": {
     "descr": "Если эта карта перемещается, её сила удваивается.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HumanTorch-infinity.webp"
   },
   "Ледяной Человек": {
     "descr": "<b>При раскрытии: </b>увеличивает стоимость случайной карты в руке вашего противника на 1 (вплоть до 6).",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Iceman-infinity.webp"
   },
   "Мистерио?": {
@@ -481,18 +521,23 @@
   },
   "Женщина-невидимка": {
     "descr": "<b>Постоянно: </b>карты, которые вы разыгрываете здесь, не будут раскрыты до конца матча.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/InvisibleWoman-infinity.webp"
   },
   "Железный кулак": {
     "descr": "<b>При раскрытии: </b>следующая разыгранная вами карта будет перемещена на одну локацию влево.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/IronFist-infinity.webp"
   },
   "Железный человек": {
     "descr": "<b>Постоянно: </b>ваша сила в этой локации удваивается.",
     "category": "Другое: Стартовый набор",
     "imgUrl": "https://static.marvelsnap.pro/cards/IronMan-infinity.webp"
+  },
+  "Железный Парень": {
+    "descr": "<b>При раскрытии: </b> копирует текст верхней карты вашей колоды.",
+    "category": "5 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/IronLad-infinity.webp"
   },
   "Железное сердце": {
     "descr": "<b>При раскрытии: </b>даёт другим дружественным картам (3шт.) +2 к силе.",
@@ -506,7 +551,7 @@
   },
   "Джейн Фостер: Могучий Тор": {
     "descr": "<b>При раскрытии: </b>берёт все карты, которые стоят 0, из вашей колоды.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/JaneFoster-infinity.webp"
   },
   "Джин Грей": {
@@ -516,7 +561,7 @@
   },
   "Сухопутный акулёнок Джефф": {
     "descr": "Эту карту можно переместить один раз. Разыгрывайте её на любой локации или перемещайте туда.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/JeffTheBabyLandShark-infinity.webp"
   },
   "Джессика Джонс": {
@@ -526,12 +571,12 @@
   },
   "Джубили": {
     "descr": "<b>При раскрытии: </b>добавляет карту с верха колоды на эту локацию.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Jubilee-infinity.webp"
   },
   "Джаггернаут": {
     "descr": "<b>При раскрытии: </b>случайным образом перемещает карты противника, которые тот разыграл здесь на этом ходу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Juggernaut-infinity.webp"
   },
   "Ка-Зар": {
@@ -541,12 +586,12 @@
   },
   "Канг": {
     "descr": "<b>При раскрытии: </b>смотрите, что сделал ваш противник, и начинаете ход заново (но без Канга).",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Kang-infinity.webp"
   },
   "Киллмонгер": {
     "descr": "<b>При раскрытии: </b>уничтожает ВСЕ карты с базовой стоимостью 1.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Killmonger-infinity.webp"
   },
   "Эйтри": {
@@ -556,32 +601,32 @@
   },
   "Кингпин": {
     "descr": "Уничтожает карту, если она переместиться сюда на 6-м ходу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Kingpin-infinity.webp"
   },
   "Китти Прайд": {
     "descr": "Когда эта карта возвращается в вашу руку, она получает +2 к силе. Возвращается в вашу руку вначале каждого хода.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/KittyPryde-infinity.webp"
   },
   "Кло": {
     "descr": "<b>Постоянно: </b>локация справа получает +6 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Klaw-infinity.webp"
   },
   "Налл": {
     "descr": "<b>Постоянно: </b>получает совокупную силу всех карт, уничтоженных в этом матче.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Knull-infinity.webp"
   },
   "Корг": {
     "descr": "<b>При раскрытии: </b>подтасовывает карту «Скала» в колоду вашего противника.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Korg-infinity.webp"
   },
   "Крейвен": {
     "descr": "Когда сюда перемещается карта, получает +2 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Kraven-infinity.webp"
   },
   "Леди Смертельный Удар": {
@@ -591,52 +636,57 @@
   },
   "Леди Сиф": {
     "descr": "<b>При раскрытии: </b>сбрасывает карту с наибольшей текущей стоимостью с вашей руки.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/LadySif-infinity.webp"
   },
   "Лидер": {
     "descr": "<b>При раскрытии: </b>копирует разыгранные на этом ходу вражеские карты (или карту) с самой высокой силой, но на вашу сторону.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Leader-infinity.webp"
   },
   "Пиявка": {
     "descr": "В начале 6-го хода удаляет все способности карт в руке вашего противника.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Leech-infinity.webp"
   },
   "Легион": {
-    "descr": "<b>При раскрытии: </b>превращает другие локацию в копию этой.",
+    "descr": "<b>При раскрытии: </b>превращает другие локации в копию этой.",
     "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/Legion-infinity.webp"
   },
   "Ящер": {
     "descr": "<b>Постоянно: </b>-4 к силе, если у противника есть карты (4шт.) здесь.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Lizard-infinity.webp"
   },
   "Локджо": {
     "descr": "После того, как вы разыгрываете здесь карту, заменяет её на карту из вашей колоды ()один раз за ход.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Lockjaw-infinity.webp"
   },
   "Люк Кейдж": {
     "descr": "<b>Постоянно: </b>сила ваших карт не может быть снижена.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/LukeCage-infinity.webp"
+  },
+  "Локи": {
+    "descr": "<b>При раскрытии: </b>Поменяйтесь руками с оппонентом.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Loki-infinity.webp"
   },
   "М'Баку": {
     "descr": "Прыгнет на случайную локацию, если после финального хода будет находиться в колоде.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MBaku-infinity.webp"
   },
   "Мэджик": {
     "descr": "Нельзя разыграть на 6-м ходу. <b>При раскрытии: </b>меняет эту локацию на «Лимбо».",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Magik-infinity.webp"
   },
   "Магнето": {
     "descr": "<b>При раскрытии: </b>перемещает все вражеские карты с базовой стоимостью 3 и 4 в эту локацию.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Magneto-infinity.webp"
   },
   "Маккари": {
@@ -646,22 +696,22 @@
   },
   "Мантис": {
     "descr": "<b>При раскрытии: </b>вытяните карту из колоды противника, если тот разыграл здесь карту на этом ходу.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mantis-infinity.webp"
   },
   "Мария Хилл": {
     "descr": "<b>При раскрытии: </b>добавляет случайную карту с базовой стоимостью 1 в вашу руку.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MariaHill-infinity.webp"
   },
   "Мастер Молд": {
     "descr": "<b>При раскрытии: </b>добавляет 2 карт(ы) «Страж» в руку противника.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MasterMold-infinity.webp"
   },
   "Максимус": {
     "descr": "<b>При раскрытии: </b>ваш противник берёт 2 карт(ы).",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Maximus-infinity.webp"
   },
   "Медуза": {
@@ -676,7 +726,7 @@
   },
   "Майлз Моралес": {
     "descr": "Если карта переместилась на прошлом ходу, стоимость составит 1.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MilesMorales-infinity.webp"
   },
   "Камень Разума": {
@@ -696,12 +746,12 @@
   },
   "Мистер Негатив": {
     "descr": "<b>При раскрытии: </b>меняет местами силу и стоимость всех карт в вашей колоде.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MrNegative-infinity.webp"
   },
   "Мистер Зловещий": {
     "descr": "<b>При раскрытии: </b>добавляет карту «Зловещий Клон» с той же силой в эту локацию.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MrSinister-infinity.webp"
   },
   "Мисти Найт": {
@@ -716,12 +766,12 @@
   },
   "МОДОК": {
     "descr": "<b>При раскрытии: </b>сбрасывает вашу руку.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Modok-infinity.webp"
   },
   "Моджо": {
     "descr": "<b>Постоянно: </b>+6 к силе, если оба игрока имеют по 4 карты на этой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mojo-infinity.webp"
   },
   "Монстр": {
@@ -731,22 +781,22 @@
   },
   "Лунная девочка": {
     "descr": "<b>При раскрытии: </b>дублирует вашу руку.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MoonGirl-infinity.webp"
   },
   "Лунный рыцарь": {
     "descr": "<b>При раскрытии: </b>сбрасывает по карте с руки каждого игрока.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MoonKnight-infinity.webp"
   },
   "Морбиус": {
     "descr": "<b>Постоянно: </b>+2 к силе за каждую сброшенную вами карту в этой игре.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Morbius-infinity.webp"
   },
   "Морф": {
     "descr": "<b>При раскрытии: </b>становится копией случайной карты из руки противника.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Morph-infinity.webp"
   },
   "Мисс Марвел": {
@@ -756,42 +806,42 @@
   },
   "Множитель": {
     "descr": "При перемещении оставляет свою копию на предыдущей локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MultipleMan-infinity.webp"
   },
   "Мистерио": {
     "descr": "При разыгрывании этой карты, также разыгрывает Иллюзии на других локациях. Эта карта маскируется под Иллюзию до конца матча.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mysterio-infinity.webp"
   },
   "Мистик": {
     "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта имеет постоянную способность и находится в игре, копирует её текст.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mystique-infinity.webp"
   },
   "Накия": {
     "descr": "<b>При раскрытии: </b>крайние слева карты (2шт.) в вашей руке получают +2 к силе.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Nakia-infinity.webp"
   },
   "Нэмор": {
     "descr": "<b>Постоянно: </b>+5 к силе, если это ваша единственная карта здесь.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Namor-infinity.webp"
   },
   "Небула": {
-    "descr": "<b>При раскрытии: </b>если ваш оппонент разыграл карту здесь на этом ходу, сила х2 и положите её в свою руку.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "Каждый ход, когда ваш оппонент не разыгрывает здесь карту, +2 к силе. (кроме хода, когда вы разыграли эту карту)",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Nebula-infinity.webp"
   },
   "Сверхзвуковая Боеголовка": {
     "descr": "Если здесь будет разыграна любая карта, то и та, и эта карты уничтожаются.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/NegasonicTeenageWarhead-infinity.webp"
   },
   "Ник Фьюри": {
     "descr": "<b>При раскрытии: </b>добавляет случайные карты (3шт.) с базовой стоимостью 6 в вашу руку.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/NickFury-infinity.webp"
   },
   "Ночная медсестра": {
@@ -806,7 +856,7 @@
   },
   "Нимрод": {
     "descr": "При уничтожении добавляет одну копию во все другие локации.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Nimrod-infinity.webp"
   },
   "Ниндзя": {
@@ -816,7 +866,7 @@
   },
   "Нова": {
     "descr": "При уничтожении увеличивает силу ваших карт на 1.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Nova-infinity.webp"
   },
   "Один": {
@@ -826,32 +876,32 @@
   },
   "Окойе": {
     "descr": "<b>При раскрытии: </b>увеличивает силу каждой карты в вашей колоде на 1.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Okoye-infinity.webp"
   },
   "Красный Омега": {
     "descr": "<b>Постоянно: </b>если у вас есть преимущество в 10 очк. силы здесь, +4 к силе остальных локаций.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/OmegaRed-infinity.webp"
   },
   "Натиск": {
     "descr": "<b>Постоянно: </b>удваивает ваши другие постоянные эффекты на этой локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Onslaught-infinity.webp"
   },
   "Орка": {
     "descr": "<b>Постоянно: </b>+5 к силе, если это ваша единственная карта здесь.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Orka-infinity.webp"
   },
   "Патриот": {
     "descr": "<b>Постоянно: </b>ваши карты без способностей получают +2 к силе.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Patriot-infinity.webp"
   },
   "Полярис": {
     "descr": "<b>При раскрытии: </b>перемещает вражескую карту с базовой стоимостью 1 или 2 в эту локацию.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Polaris-infinity.webp"
   },
   "Камень Силы": {
@@ -861,12 +911,12 @@
   },
   "Профессор Икс": {
     "descr": "<b>Постоянно: </b>закрывает эту локацию (карты не могут быть добавлены, убраны и т. д.).",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ProfessorX-infinity.webp"
   },
   "Псайлок": {
     "descr": "<b>При раскрытии: </b>на следующем ходу вы получите +1 к энергии.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Psylocke-infinity.webp"
   },
   "Каратель": {
@@ -876,7 +926,7 @@
   },
   "Дрожь": {
     "descr": "<b>При раскрытии: </b>меняет все локации местами, если эта карта находится на средней локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Quake-infinity.webp"
   },
   "Ртуть": {
@@ -886,7 +936,7 @@
   },
   "Квинджет": {
     "descr": "<b>Постоянно: </b>карты, которых изначально не было в вашей колоде, стоят на 1 меньше (минимум 1).",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Quinjet-infinity.webp"
   },
   "Рандом": {
@@ -911,17 +961,17 @@
   },
   "Красный Череп": {
     "descr": "<b>Постоянно: </b>повышает силу вражеских карт в этой локации на 1.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/RedSkull-infinity.webp"
   },
   "Спасительница": {
     "descr": "<b>При раскрытии: </b>если вы разыгрываете карту здесь на следующем ходу, +5 к силе.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Rescue-infinity.webp"
   },
   "Носорог": {
     "descr": "<b>При раскрытии: </b>превращает эту локацию в руины (убирает её способность).",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Rhino-infinity.webp"
   },
   "Скала": {
@@ -931,47 +981,47 @@
   },
   "Енот Ракета": {
     "descr": "<b>При раскрытии: </b>если противник разыграл карту здесь на этом ходу, +2 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/RocketRaccoon-infinity.webp"
   },
   "Оползень": {
     "descr": "<b>При раскрытии: </b>подтасовывает 2 карт(ы) «Скала» в колоду противника.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Rockslide-infinity.webp"
   },
   "Шельма": {
     "descr": "<b>При раскрытии: </b>похищает постоянную способность случайной карты противника в этой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Rogue-infinity.webp"
   },
   "Ронан Обвинитель": {
     "descr": "<b>Постоянно: </b>+2 к силе за каждую карту в руке вашего противника.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Ronan-infinity.webp"
   },
   "Саблезубый": {
     "descr": "При уничтожении возвращается в вашу руку. Теперь стоит 0.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sabretooth-infinity.webp"
   },
   "Песочный Человек": {
     "descr": "<b>Постоянно: </b>за один ход игроки могут разыграть только 1 карту.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sandman-infinity.webp"
   },
   "Саурон": {
     "descr": "<b>При раскрытии: </b>убирает способности всех постоянных карт в вашей руке и колоде.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sauron-infinity.webp"
   },
   "Алая Ведьма": {
     "descr": "<b>При раскрытии: </b>заменяет эту локацию на новую случайным образом.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ScarletWitch-infinity.webp"
   },
   "Скорпион": {
     "descr": "<b>При раскрытии: </b>снижает силу карт в руке вашего противника на 1.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Scorpion-infinity.webp"
   },
   "Страж": {
@@ -981,32 +1031,32 @@
   },
   "Часовой": {
     "descr": "Нельзя сыграть на локации справа. <b>При раскрытии: </b>добавляет Пустоту с силой -8 в правую локацию.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sentry-infinity.webp"
   },
   "Сера": {
     "descr": "<b>Постоянно: </b>карты в вашей руке теперь стоят на 1 меньше (но не менее 1).",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sera-infinity.webp"
   },
   "Король Теней": {
     "descr": "<b>При раскрытии: </b>возвращает всем картам здесь их базовую силу.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ShadowKing-infinity.webp"
   },
   "Шан-Чи": {
     "descr": "<b>При раскрытии: </b>уничтожает все вражеские карты в этой локации с силой не менее 9.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ShangChi-infinity.webp"
   },
   "Шанна": {
     "descr": "<b>При раскрытии: </b>добавляет случайную карту с базовой стоимостью 1 на каждую локацию.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Shanna-infinity.webp"
   },
   "Женщина-Халк": {
     "descr": "Будет стоить на 1 меньше за каждое неизрасходованное очко энергии на прошлом ходу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SheHulk-infinity.webp"
   },
   "Шокер": {
@@ -1016,7 +1066,7 @@
   },
   "Шури": {
     "descr": "<b>При раскрытии: </b>если вы разыграете здесь свою следующую карту, удваивает её силу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Shuri-infinity.webp"
   },
   "Шёлк": {
@@ -1036,12 +1086,12 @@
   },
   "Серебряный Сёрфер": {
     "descr": "<b>При раскрытии: </b>остальные ваши карты с базовой стоимостью 3 получают +2 к силе.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSurfer-infinity.webp"
   },
   "Снежный Страж": {
     "descr": "Находясь в вашей руке, эта карта каждый ход превращается в Сокола или Медведя.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
   },
   "Снежный Страж Сокол": {
@@ -1071,17 +1121,17 @@
   },
   "Человек-паук": {
     "descr": "<b>При раскрытии: </b>ваш противник не сможет разыгрывать карты на этой локации на следующем ходу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan-infinity.webp"
   },
   "Женщина-паук": {
     "descr": "<b>При раскрытии: </b>снижает силу всех вражеских карт здесь на 1.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderWoman-infinity.webp"
   },
   "Девушка-белка": {
     "descr": "<b>При раскрытии: </b>добавляет карту «Белка» с силой 1 во все другие локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SquirrelGirl-infinity.webp"
   },
   "Звёздный Лорд": {
@@ -1091,22 +1141,22 @@
   },
   "Высота": {
     "descr": "Стоит 1, если противник сбрасывал карту из своей руки в этой игре.",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stature-infinity.webp"
   },
   "Стегрон": {
     "descr": "<b>При раскрытии: </b>перемещает вражескую карту из этой локации в другую.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stegron-infinity.webp"
   },
   "Шторм": {
     "descr": "<b>При раскрытии: </b>затапливает локацию. Следующий ход будет последним ходом, на котором здесь могут быть разыграны карты.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Storm-infinity.webp"
   },
   "Силач": {
     "descr": "<b>Постоянно: </b>если в вашей руке нет карт, +6 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/StrongGuy-infinity.webp"
   },
   "Страйф": {
@@ -1116,12 +1166,12 @@
   },
   "Санспот": {
     "descr": "В конце каждого хода +1 к силе за каждое неизрасходованное очко энергии.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sunspot-infinity.webp"
   },
   "Супер-скрулл": {
     "descr": "<b>Постоянно: </b>обладает постоянными эффектами всех карт противника.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SuperSkrull-infinity.webp"
   },
   "Суртур": {
@@ -1131,12 +1181,12 @@
   },
   "Рой": {
     "descr": "Уходя в сброс из вашей руки, добавляет в неё две копии, которые стоят 0.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Swarm-infinity.webp"
   },
   "Мастер Меча": {
     "descr": "<b>При раскрытии: </b>сбрасывает карту с вашей руки.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SwordMaster-infinity.webp"
   },
   "Симбиот": {
@@ -1146,32 +1196,32 @@
   },
   "Таскмастер": {
     "descr": "<b>При раскрытии: </b>если последняя разыгранная вами карта находится в игре, даёт этой карте такую же силу.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Taskmaster-infinity.webp"
   },
   "Танос": {
     "descr": "Подтасовывает в вашу колоду 6 Камней Бесконечности в начале матча.",
-    "category": "Пул 5",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Thanos-infinity.webp"
   },
   "Коллекционер": {
     "descr": "Каждый раз, когда вы берёте в руку карту (за исключением вытягивания её из колоды), +1 к силе.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/TheCollector-infinity.webp"
   },
   "Капюшон": {
     "descr": "<b>При раскрытии: </b>добавляет карту «Демон» в вашу руку.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Hood-infinity.webp"
   },
   "Инфинаут": {
     "descr": "Нельзя разыгрывать эту карту, если вы разыграли карту на прошлом ходу.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Infinaut-infinity.webp"
   },
   "Живой Трибунал": {
-    "descr": "В конце матча распределяет вашу общую силу поровну между всеми локациями.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "В конце матча распределяет вашу общую Силу поровну между всеми локациями.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/LivingTribunal-infinity.webp"
   },
   "Сила Феникса": {
@@ -1191,7 +1241,7 @@
   },
   "Тор": {
     "descr": "<b>При раскрытии: </b>подтасовывает Мьёльнир в вашу колоду.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Thor-infinity.webp"
   },
   "Дух тигра": {
@@ -1206,7 +1256,7 @@
   },
   "Титания": {
     "descr": "Если здесь будет разыграна любая карта, эта карта сменит сторону.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Titania-infinity.webp"
   },
   "Жаба": {
@@ -1216,17 +1266,17 @@
   },
   "Тифозная Мэри": {
     "descr": "<b>Постоянно: </b>снижает силу остальных ваших карт на 1.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/TyphoidMary-infinity.webp"
   },
   "Наблюдатель Уату": {
     "descr": "Если эта карта побывала у вас в руке, вы можете видеть ещё не раскрытые локации.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Uatu-infinity.webp"
   },
   "Альтрон": {
     "descr": "<b>При раскрытии: </b>создаёт по 4 Дрона с силой 1 на каждой другой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Ultron-infinity.webp"
   },
   "Дядя Бен": {
@@ -1236,12 +1286,12 @@
   },
   "Валькирия": {
     "descr": "<b>При раскрытии: </b>меняет силу ВСЕХ карт в этой локации на 3.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Valkyrie-infinity.webp"
   },
   "Веном": {
     "descr": "<b>При раскрытии: </b>уничтожает ваши прочие карты на этой локации. Добавляет их силу себе.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Venom-infinity.webp"
   },
   "Вибраниум": {
@@ -1251,12 +1301,12 @@
   },
   "Гадюка": {
     "descr": "<b>При раскрытии: </b>противник получает контроль над одной из других ваших карт в этой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Viper-infinity.webp"
   },
   "Вижн": {
     "descr": "Эту карту можно перемещать каждый ход.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Vision-infinity.webp"
   },
   "Вив Вижн": {
@@ -1266,7 +1316,7 @@
   },
   "Стервятник": {
     "descr": "Когда эта карта перемещается, +5 к силе.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Vulture-infinity.webp"
   },
   "Воитель": {
@@ -1276,22 +1326,22 @@
   },
   "Варпатч": {
     "descr": "<b>Постоянно: </b>если какая-либо из ваших локаций пуста, +4 к силе.",
-    "category": "Пул 2",
+    "category": "2 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Warpath-infinity.webp"
   },
   "Оса": {
     "descr": "«Моя тайная сила в том, что я довожу дела до конца».",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Wasp-infinity.webp"
   },
   "Волна": {
     "descr": "<b>При раскрытии: </b>на следующем ходу карты в руках всех игроков будут стоить 4.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Wave-infinity.webp"
   },
   "Белая Королева": {
     "descr": "<b>При раскрытии: </b>вытаскивает копию карты с самой высокой текущей стоимостью из руки противника.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/WhiteQueen-infinity.webp"
   },
   "Белая Тигрица": {
@@ -1321,12 +1371,12 @@
   },
   "Росомаха": {
     "descr": "Если эта карта сброшена или уничтожена, она восстановится на случайной локации и получит +2 к силе.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Wolverine-infinity.webp"
   },
   "Вонг": {
     "descr": "<b>Постоянно: </b>способности ваших карт <b>«При раскрытии»</b> будут срабатывать дважды на этой локации.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Wong-infinity.webp"
   },
   "X-23": {
@@ -1336,7 +1386,7 @@
   },
   "Жёлтый Шершень": {
     "descr": "<b>При раскрытии: </b>снижает силу остальных ваших карт в этой локации на 1.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Yellowjacket-infinity.webp"
   },
   "Йо-Йо": {
@@ -1346,17 +1396,17 @@
   },
   "Йонду": {
     "descr": "<b>При раскрытии: </b>уничтожает верхнюю карту с колоды противника.",
-    "category": "Пул 1",
+    "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Yondu-infinity.webp"
   },
   "Забу": {
     "descr": "<b>Постоянно: </b>ваши карты с базовой стоимостью 4 теперь стоят на 1 меньше (но не менее 1).",
-    "category": "Пул 4",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Zabu-infinity.webp"
   },
   "Зеро": {
     "descr": "<b>При раскрытии: </b>убирает способности со следующей разыгрываемой вами карты.",
-    "category": "Пул 3",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Zero-infinity.webp"
   }
 }
