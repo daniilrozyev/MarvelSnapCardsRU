@@ -1555,15 +1555,15 @@ function getCategory(category) {
   switch (category) {
     case 'Другое: Стартовый набор':
       return 'all starter';
-    case 'Пул 1':
+    case '1 серия': //case 'Пул 1':
       return 'all pool1';
-    case 'Пул 2':
+    case '2 серия': //case 'Пул 2':
       return 'all pool2';
-    case 'Пул 3':
+    case '3 серия': //case 'Пул 3':
       return 'all pool3';
-    case 'Пул 4':
+    case '4 серия': //case 'Пул 4':
       return 'all pool4';
-    case 'Пул 5':
+    case '5 серия': //case 'Пул 5':
       return 'all pool5';
     case 'Другое: Сезон рекрута':
       return 'all recruit-season';
