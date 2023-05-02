@@ -440,7 +440,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Hellcow-infinity.webp"
   },
   "Высший Эволюционер": {
-    "descr": "В начале матча раскройте потенциал ваших карт без способностей.",
+    "descr": "В начале матча открывает потенциал ваших карт без способностей.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HighEvolutionary-infinity.webp"
   },
@@ -490,7 +490,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Hobgoblin-infinity.webp"
   },
   "Утка Говард": {
-    "descr": "<b>Постоянно: </b>коснитесь этой карты, чтобы увидеть верхнюю карту своей колоды.",
+    "descr": "<b>Постоянно: </b>коснитесь, чтобы увидеть верхнюю карту своей колоды.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HowardTheDuck-infinity.webp"
   },
@@ -535,7 +535,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/IronMan-infinity.webp"
   },
   "Железный Парень": {
-    "descr": "<b>При раскрытии: </b> копирует текст верхней карты вашей колоды.",
+    "descr": "<b>При раскрытии: </b> копирует текст верхней карты в вашей колоде.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/IronLad-infinity.webp"
   },
@@ -1220,7 +1220,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Infinaut-infinity.webp"
   },
   "Живой Трибунал": {
-    "descr": "В конце матча распределяет вашу общую Силу поровну между всеми локациями.",
+    "descr": "<b>Постоянно: </b>равномерно распределяет вашу суммарную силу по всем локациям.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/LivingTribunal-infinity.webp"
   },
