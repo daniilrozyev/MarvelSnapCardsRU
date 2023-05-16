@@ -205,7 +205,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Crossbones-infinity.webp"
   },
   "Кристалл": {
-    "descr": "<b>При раскрытии: </b>если эта карта находится в средней локации, подтасовывает вашу руку в вашу колоду и вытягивает 3 карт(ы).",
+    "descr": "<b>При раскрытии: </b>Каждый игрок вытягивает карту.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Crystal-infinity.webp"
   },
@@ -240,7 +240,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Deadpool-infinity.webp"
   },
   "Смерть": {
-    "descr": "Будет стоить на 1 меньше за каждую карту, уничтоженную в этой игре.",
+    "descr": "Снижает свою стоимость на 1 за каждую уничтоженную карту в этом матче.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Death-infinity.webp"
   },
@@ -605,7 +605,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Kingpin-infinity.webp"
   },
   "Китти Прайд": {
-    "descr": "Когда эта карта возвращается в вашу руку, она получает +2 к силе. Возвращается в вашу руку вначале каждого хода.",
+    "descr": "+2 к силе, когда эта карта возвращается в вашу руку. Возвращается в начале каждого хода.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/KittyPryde-infinity.webp"
   },
@@ -1335,12 +1335,12 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Wasp-infinity.webp"
   },
   "Волна": {
-    "descr": "<b>При раскрытии: </b>на следующем ходу карты в руках всех игроков будут стоить 4.",
+    "descr": "<b>При раскрытии: </b>Все карты стоят 4 до конца следующего хода.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Wave-infinity.webp"
   },
   "Белая Королева": {
-    "descr": "<b>При раскрытии: </b>вытаскивает копию карты с самой высокой текущей стоимостью из руки противника.",
+    "descr": "<b>При раскрытии: </b>копирует самую дорогостоящую карту из руки вашего противника в вашу руку.",
     "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/WhiteQueen-infinity.webp"
   },
