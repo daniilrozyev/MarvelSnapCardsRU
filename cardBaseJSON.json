@@ -605,7 +605,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Kingpin-infinity.webp"
   },
   "Китти Прайд": {
-    "descr": "+2 к силе, когда эта карта возвращается в вашу руку. Возвращается в начале каждого хода.",
+    "descr": "Когда эта карта возвращается в вашу руку, получает +2 к силе. Возвращается в начале каждого хода.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/KittyPryde-infinity.webp"
   },
@@ -1030,7 +1030,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Sentinel-infinity.webp"
   },
   "Часовой": {
-    "descr": "Нельзя сыграть на локации справа. <b>При раскрытии: </b>добавляет Пустоту с силой -8 в правую локацию.",
+    "descr": "Нельзя сыграть на локации справа. <b>При раскрытии: </b>добавляет Пустоту с силой -10 в правую локацию.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sentry-infinity.webp"
   },
