@@ -375,8 +375,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/GhostRider-infinity.webp"
   },
   "Призрак-Паук": {
-    "descr": "<b>При раскрытии: </b>перемещает последнюю разыгранную вами карту в этой локации.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>При раскрытии: </b>последняя разыгранная вами карта перемещается сюда.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/GhostSpider-infinity.webp"
   },
   "Гиганто": {
@@ -1070,8 +1070,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Shuri-infinity.webp"
   },
   "Шёлк": {
-    "descr": "После того, как здесь разыграна ЛЮБАЯ карта, она перемещается в другое место.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "После того, как здесь разыграна ЛЮБАЯ карта, она перемещается в другую локацию.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Silk-infinity.webp"
   },
   "Серебряный Соболь": {
@@ -1123,6 +1123,21 @@
     "descr": "<b>При раскрытии: </b>ваш противник не сможет разыгрывать карты на этой локации на следующем ходу.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan-infinity.webp"
+  },
+  "Человек-паук 2099": {
+    "descr": "При первом перемещении на локацию уничтожьте там карту противника.",
+    "category": "4 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan2099-infinity.webp"
+  },
+  "Свин-Паук": {
+    "descr": "<b>При раскрытии: </b>превращает самую дорогостоящую карту в руке оппонента в Свинью, сохраняя её Силу и Стоимость.",
+    "category": "4 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/SpiderHam-infinity.webp"
+  },
+  "Свинья": {
+    "descr": "«Хрю!»",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Pig-infinity.webp"
   },
   "Женщина-паук": {
     "descr": "<b>При раскрытии: </b>снижает силу всех вражеских карт здесь на 1.",
