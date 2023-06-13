@@ -230,7 +230,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Darkhawk-infinity.webp"
   },
   "Ослепительная": {
-    "descr": "<b>Постоянно: </b>если у вас есть 4 карт(ы) в каждой локации, +6 к силе.",
+    "descr": "<b>Постоянно: </b>+2 к силе за каждую заполненную локацию на вашей стороне.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Dazzler-infinity.webp"
   },
@@ -350,7 +350,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Forge-infinity.webp"
   },
   "Галактус": {
-    "descr": "<b>При раскрытии: </b>уничтожает все другие локации, если это единственная ваша карта здесь.",
+    "descr": "<b>При раскрытии: </b>уничтожает все другие локации, если вы выигрываете эту локацию и это единственная ваша карта здесь.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Galactus-infinity.webp"
   },
@@ -700,7 +700,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Mantis-infinity.webp"
   },
   "Мария Хилл": {
-    "descr": "<b>При раскрытии: </b>добавляет случайную карту с базовой стоимостью 1 в вашу руку.",
+    "descr": "<b>При раскрытии: </b>добавляет случайную карту с базовой стоимостью 1 или 2 в вашу руку.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MariaHill-infinity.webp"
   },
@@ -1051,7 +1051,7 @@
   },
   "Шанна": {
     "descr": "<b>При раскрытии: </b>добавляет случайную карту с базовой стоимостью 1 на каждую локацию.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Shanna-infinity.webp"
   },
   "Женщина-Халк": {
@@ -1070,7 +1070,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Shuri-infinity.webp"
   },
   "Шёлк": {
-    "descr": "После того, как здесь разыграна ЛЮБАЯ карта, она перемещается в другую локацию.",
+    "descr": "Если здесь будет разыграна любая карта, переместится на другую локацию.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Silk-infinity.webp"
   },
@@ -1091,7 +1091,7 @@
   },
   "Снежный Страж": {
     "descr": "Находясь в вашей руке, эта карта каждый ход превращается в Сокола или Медведя.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
   },
   "Снежный Страж Сокол": {
@@ -1161,7 +1161,7 @@
   },
   "Стегрон": {
     "descr": "<b>При раскрытии: </b>перемещает вражескую карту из этой локации в другую.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stegron-infinity.webp"
   },
   "Шторм": {
@@ -1350,7 +1350,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Wasp-infinity.webp"
   },
   "Волна": {
-    "descr": "<b>При раскрытии: </b>Все карты стоят 4 до конца следующего хода.",
+    "descr": "<b>При раскрытии: </b>все карты стоят 4 до конца следующего хода.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Wave-infinity.webp"
   },
