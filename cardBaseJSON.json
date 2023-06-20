@@ -1130,12 +1130,12 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan2099-infinity.webp"
   },
   "Свин-Паук": {
-    "descr": "<b>При раскрытии: </b>превращает самую дорогостоящую карту в руке вашего противника в Свина, при этом сохраняя ее силу и стоимость.",
+    "descr": "<b>При раскрытии: </b>превращает самую дорогостоящую карту в руке вашего противника в «Свин», при этом сохраняя ее силу и стоимость.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderHam-infinity.webp"
   },
   "Свин": {
-    "descr": "«Хрю-Хрю!»",
+    "descr": "«Хрю!»",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/Pig-infinity.webp"
   },
