@@ -270,7 +270,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/DevilDinosaur-infinity.webp"
   },
   "Доктор Дум": {
-    "descr": "<b>При раскрытии: </b>добавляет карту «Думбот» с силой 5 во все другие локации.",
+    "descr": "<b>При раскрытии: </b>добавляет карту «Думбот» с силой 4 во все другие локации.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/DrDoom-infinity.webp"
   },
@@ -960,7 +960,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/RedGuardian-infinity.webp"
   },
   "Красный Череп": {
-    "descr": "<b>Постоянно: </b>повышает силу вражеских карт в этой локации на 1.",
+    "descr": "<b>Постоянно: </b>повышает силу вражеских карт в этой локации на 2.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/RedSkull-infinity.webp"
   },
