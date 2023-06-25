@@ -231,7 +231,7 @@
   },
   "Ослепительная": {
     "descr": "<b>Постоянно: </b>+2 к силе за каждую заполненную локацию на вашей стороне.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Dazzler-infinity.webp"
   },
   "Дэдпул": {
@@ -366,7 +366,7 @@
   },
   "Призрак": {
     "descr": "<b>Постоянно: </b>ваши карты всегда раскрываются последними (их способности при раскрытии активируются в последнюю очередь).",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Ghost-infinity.webp"
   },
   "Призрачный Гонщик": {
@@ -706,8 +706,8 @@
   },
   "Мастер Молд": {
     "descr": "<b>При раскрытии: </b>добавляет 2 карт(ы) «Страж» в руку противника.",
-    "category": "5 серия",
-    "imgUrl": "https://static.marvelsnap.pro/cards/MasterMold-infinity.webp"
+    "category": "4 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/MasterMold.webp"
   },
   "Максимус": {
     "descr": "<b>При раскрытии: </b>ваш противник берёт 2 карт(ы).",
@@ -836,7 +836,7 @@
   },
   "Сверхзвуковая Боеголовка": {
     "descr": "Если здесь будет разыграна любая карта, то и та, и эта карты уничтожаются.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/NegasonicTeenageWarhead-infinity.webp"
   },
   "Ник Фьюри": {
@@ -856,7 +856,7 @@
   },
   "Нимрод": {
     "descr": "При уничтожении добавляет одну копию во все другие локации.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Nimrod-infinity.webp"
   },
   "Ниндзя": {
@@ -1011,7 +1011,7 @@
   },
   "Саурон": {
     "descr": "<b>При раскрытии: </b>убирает способности всех постоянных карт в вашей руке и колоде.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sauron-infinity.webp"
   },
   "Алая Ведьма": {
@@ -1031,7 +1031,7 @@
   },
   "Часовой": {
     "descr": "Нельзя сыграть на локации справа. <b>При раскрытии: </b>добавляет Пустоту с силой -10 в правую локацию.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Sentry-infinity.webp"
   },
   "Сера": {
@@ -1041,7 +1041,7 @@
   },
   "Король Теней": {
     "descr": "<b>При раскрытии: </b>возвращает всем картам здесь их базовую силу.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ShadowKing-infinity.webp"
   },
   "Шан-Чи": {
@@ -1086,7 +1086,7 @@
   },
   "Серебряный Сёрфер": {
     "descr": "<b>При раскрытии: </b>остальные ваши карты с базовой стоимостью 3 получают +2 к силе.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSurfer-infinity.webp"
   },
   "Снежный Страж": {

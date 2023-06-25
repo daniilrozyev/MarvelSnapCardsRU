@@ -3,21 +3,13 @@ const cards = document.querySelectorAll('.card');
 
 // Открываем вкладки и скрываем соответствующие карточки при загрузке страницы
 window.onload = function () {
-  // const category = localStorage.getItem('category');
-  const category = localStorage.getItem('category')
-    ? localStorage.getItem('category')
-    : 'all';
-
-  showCards(category);
-  setActiveTab(category);
+  showCards('all');
 };
 
 // Обработчик клика на вкладке
 tablinks.forEach((tablink) => {
   tablink.addEventListener('click', function () {
-    localStorage.setItem('category', `${this.id}`);
-    // const category = this.id;
-    const category = localStorage.getItem('category');
+    const category = this.id;
     showCards(category);
     setActiveTab(category);
   });
