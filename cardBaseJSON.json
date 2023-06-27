@@ -1125,7 +1125,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan-infinity.webp"
   },
   "Человек-паук 2099": {
-    "descr": "Когда эта карта перемещается на локацию в первый раз, уничтожает там вражескую карту.",
+    "descr": "Когда впервые перемещается на локацию, уничтожает там вражескую карту.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan2099-infinity.webp"
   },
