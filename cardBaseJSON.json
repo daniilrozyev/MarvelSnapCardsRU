@@ -555,9 +555,14 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/JaneFoster-infinity.webp"
   },
   "Джин Грей": {
-    "descr": "<b>При раскрытии: </b>следующая карта, которую разыгрывает ваш оппонент, должна быть разыграна здесь, если это возможно.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>Постоянно: </b>игроки должны разыгрывать свою первую карту здесь каждый ход. (если возможно)",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/JeanGrey-infinity.webp"
+  },
+  "Эхо": {
+    "descr": "После того, как ваш оппонент разыграет здесь карту с постоянной способностью, убирает все её способности.",
+    "category": "5 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Echo-infinity.webp"
   },
   "Сухопутный акулёнок Джефф": {
     "descr": "Эту карту можно переместить один раз. Разыгрывайте её на любой локации или перемещайте туда.",
@@ -650,8 +655,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Leech-infinity.webp"
   },
   "Легион": {
-    "descr": "<b>При раскрытии: </b>превращает другие локации в копию этой.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>При раскрытии: </b>превращает все другие локации в копию этой.",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Legion-infinity.webp"
   },
   "Ящер": {
@@ -735,8 +740,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/MindStone-infinity.webp"
   },
   "Мираж": {
-    "descr": "Весь матч маскируется под карту «Мистер Фантастик», становится собой в конце последнего хода.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "При раскрытии: копирует карту с наименьшей стоимостью из руки оппонента в вашу руку. Эта карта получает +2 к силе.",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mirage-infinity.webp"
   },
   "Мистер Фантастик": {
@@ -1240,8 +1245,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/LivingTribunal-infinity.webp"
   },
   "Сила Феникса": {
-    "descr": "<b>При раскрытии: </b>восстанавливает одну из ваших уничтоженных карт с силой 5+. Если это карта «Джин Грей», +10 к силе.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>При раскрытии: </b>возрождает одну из ваших уничтоженных карт и объединяется с ней. Эта карта может перемещаться каждый ход.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ThePhoenixForce-infinity.webp"
   },
   "Существо": {
