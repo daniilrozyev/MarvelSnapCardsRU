@@ -655,7 +655,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Leech-infinity.webp"
   },
   "Легион": {
-    "descr": "<b>При раскрытии: </b>превращает все другие локации в копию этой.",
+    "descr": "<b>При раскрытии: </b>заменяет все другие локации на эту.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Legion-infinity.webp"
   },
