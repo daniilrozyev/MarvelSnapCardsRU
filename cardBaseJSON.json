@@ -555,12 +555,12 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/JaneFoster-infinity.webp"
   },
   "Джин Грей": {
-    "descr": "<b>Постоянно: </b>игроки должны разыгрывать свою первую карту здесь каждый ход. (если возможно)",
+    "descr": "<b>Постоянно: </b>игроки должны разыграть здесь свою первую карту на каждом ходу (если это возможно).",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/JeanGrey-infinity.webp"
   },
   "Эхо": {
-    "descr": "После того, как ваш оппонент разыграет здесь карту с постоянной способностью, убирает все её способности.",
+    "descr": "После того, как противник разыграет здесь карту с постоянной способностью, убирает ее способности.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Echo-infinity.webp"
   },
@@ -655,7 +655,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Leech-infinity.webp"
   },
   "Легион": {
-    "descr": "<b>При раскрытии: </b>заменяет все другие локации на эту.",
+    "descr": "<b>При раскрытии: </b>заменяет каждую другую локацию этой.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Legion-infinity.webp"
   },
@@ -740,7 +740,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/MindStone-infinity.webp"
   },
   "Мираж": {
-    "descr": "При раскрытии: копирует карту с наименьшей стоимостью из руки оппонента в вашу руку. Эта карта получает +2 к силе.",
+    "descr": "<b>При раскрытии: </b>копирует самую дешевую карту из руки вашего противника в вашу руку. Она получает +2 к силе.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mirage-infinity.webp"
   },
@@ -1245,7 +1245,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/LivingTribunal-infinity.webp"
   },
   "Сила Феникса": {
-    "descr": "<b>При раскрытии: </b>возрождает одну из ваших уничтоженных карт и объединяется с ней. Эта карта может перемещаться каждый ход.",
+    "descr": "<b>При раскрытии: </b>воскрешает одну из ваших уничтоженных карт и сливается с ней. Эта карта может перемещаться на каждом ходу.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ThePhoenixForce-infinity.webp"
   },
