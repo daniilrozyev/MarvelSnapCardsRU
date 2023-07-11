@@ -555,7 +555,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/JaneFoster-infinity.webp"
   },
   "Джин Грей": {
-    "descr": "<b>Постоянно: </b>игроки должны разыграть здесь свою первую карту на каждом ходу (если это возможно).",
+    "descr": "<b>Постоянно: </b>на каждом ходу игроки должны разыгрывать здесь свою первую карту, если это возможно.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/JeanGrey-infinity.webp"
   },
