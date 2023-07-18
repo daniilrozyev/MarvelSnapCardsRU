@@ -560,7 +560,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/JeanGrey-infinity.webp"
   },
   "Эхо": {
-    "descr": "После того, как противник разыграет здесь карту с постоянной способностью, убирает ее способности.",
+    "descr": "Если ваш противник разыгрывает здесь карту с <b>постоянной</b> способностью, её способности удаляются.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Echo-infinity.webp"
   },
