@@ -219,6 +219,16 @@
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Dagger-infinity.webp"
   },
+  "Дакен": {
+    "descr": "<b>При раскрытии: </b>добавляет карту Осколок Мурамасы в вашу руку.",
+    "category": "5 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Daken-infinity.webp"
+  },
+  "Осколок Мурамасы": {
+    "descr": "Когда эта карта сбрасывается или уничтожается, удваивает силу Дакена.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/MuramasaShard-infinity.webp"
+  },
   "Сорвиголова": {
     "descr": "На 5-м ходу вы увидите ход оппонента до того, как начнёте ходить сами.",
     "category": "3 серия",
