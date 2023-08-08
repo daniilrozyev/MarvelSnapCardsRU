@@ -220,12 +220,12 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Dagger-infinity.webp"
   },
   "Дакен": {
-    "descr": "<b>При раскрытии: </b>добавляет карту Осколок Мурамасы в вашу руку.",
+    "descr": "<b>При раскрытии: </b>добавляет карту «Фрагмент Мурамасы» в вашу руку.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Daken-infinity.webp"
   },
-  "Осколок Мурамасы": {
-    "descr": "Когда эта карта сбрасывается или уничтожается, удваивает силу Дакена.",
+  "Фрагмент Мурамасы": {
+    "descr": "Когда эта карта сброшена или уничтожена, Дакен удваивает свою силу.",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/MuramasaShard-infinity.webp"
   },
@@ -645,8 +645,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Kraven-infinity.webp"
   },
   "Леди Смертельный Удар": {
-    "descr": "<b>При раскрытии: </b>уничтожает карту противника с наибольшей силой в этой локации.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>При раскрытии: </b>уничтожает здесь каждую карту, у которой силы меньше, чем у этой карты.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/LadyDeathstrike-infinity.webp"
   },
   "Леди Сиф": {
@@ -1095,8 +1095,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSable-infinity.webp"
   },
   "Серебряный Самурай": {
-    "descr": "Когда эта карта сбрасывается с вашей руки, возьмите карту.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>При раскрытии: </b>каждый игрок сбрасывает карту с самой низкой силой со своей руки.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSamurai-infinity.webp"
   },
   "Серебряный Сёрфер": {
@@ -1410,8 +1410,8 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Wong-infinity.webp"
   },
   "X-23": {
-    "descr": "Когда эта карта сбрасывается с вашей руки, она возвращается обратно в руку и стоит 0.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "Если эта карта сброшена или уничтожена, она восстановится на случайной локации и получит +1 к энергии на следующем ходу.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/X23-infinity.webp"
   },
   "Жёлтый Шершень": {
