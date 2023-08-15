@@ -645,7 +645,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Kraven-infinity.webp"
   },
   "Леди Смертельный Удар": {
-    "descr": "<b>При раскрытии: </b>уничтожает здесь каждую карту, у которой силы меньше, чем у этой карты.",
+    "descr": "<b>При раскрытии: </b>уничтожает здесь каждую карту, чья сила ниже, чем у этой карты.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/LadyDeathstrike-infinity.webp"
   },
