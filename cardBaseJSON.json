@@ -685,9 +685,20 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/LukeCage-infinity.webp"
   },
   "Локи": {
-    "descr": "<b>При раскрытии: </b>Поменяйтесь руками с оппонентом.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "<b>При раскрытии: </b>заменяет вашу руку картами из стартовой колоды вашего оппонента. Дает им -1 к стоимости.",
     "imgUrl": "https://static.marvelsnap.pro/cards/Loki-infinity.webp"
+  },
+  "Алиот": {
+    "descr": "<b>При раскрытии: </b>уничтожает ВСЕ карты оппонента, разыгранные здесь на этом ходу. (включая нераскрытые карты).",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Alioth-infinity.webp"
+  },
+  "Равонна Рейнслейер": {
+    "descr": "<b>Постоянно: </b>ваши карты с Силой 1 или меньшей стоят на 1 энергию дешевле (минимум 1).",
+    "imgUrl": "https://static.marvelsnap.pro/cards/RavonnaRenslayer-infinity.webp"
+  },
+  "Мёбиус М. Мёбиус": {
+    "descr": "<b>Постоянно: </b>стоимость ваших карт не может быть увеличена. Стоимость карт оппонента не может быть уменьшена.",
+    "imgUrl": "https://static.marvelsnap.pro/cards/MobiusMMobius-infinity.webp"
   },
   "М'Баку": {
     "descr": "Прыгнет на случайную локацию, если после финального хода будет находиться в колоде.",
