@@ -120,7 +120,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackWidow-infinity.webp"
   },
   "Блэйд": {
-    "descr": "<b>При раскрытии: </b>сбрасывает карту с вашей руки.",
+    "descr": "<b>При раскрытии: </b>сбрасывает самую правую карту с вашей руки.",
     "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Blade-infinity.webp"
   },
@@ -1120,12 +1120,12 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSurfer-infinity.webp"
   },
   "Снежный Страж": {
-    "descr": "Находясь в вашей руке, эта карта каждый ход превращается в Сокола или Медведя.",
+    "descr": "<b>При раскрытии: </b>добавляет в вашу руку Снежных Стражей: Сокол и Медведь.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
   },
   "Снежный Страж Сокол": {
-    "descr": "<b>При раскрытии: </b>на следующем ходу все способности локаций игнорируются.",
+    "descr": "<b>При раскрытии: </b>игнорирует все способности локации до конца следующего хода (или матча).",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/SnowguardHawk-infinity.webp"
   },
@@ -1135,7 +1135,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SnowguardBear-infinity.webp"
   },
   "Камень Души": {
-    "descr": "<b>При раскрытии: </b>берёте карту. <b>Постоянно: </b>сила вражеских карт снижена на 1.",
+    "descr": "<b>Постоянно: </b>карты противника здесь получают -1 к силе.",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/SoulStone-infinity.webp"
   },
@@ -1160,7 +1160,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan2099-infinity.webp"
   },
   "Свин-Паук": {
-    "descr": "<b>При раскрытии: </b>превращает самую дорогостоящую карту в руке вашего противника в «Свин», при этом сохраняя ее силу и стоимость.",
+    "descr": "<b>При раскрытии: </b>превращает самую левую карту в руке вашего противника в Свина, при этом сохраняя её силу и стоимость.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderHam-infinity.webp"
   },
