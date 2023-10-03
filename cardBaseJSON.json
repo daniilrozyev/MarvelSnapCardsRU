@@ -785,7 +785,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Mantis-infinity.webp"
   },
   "Мария Хилл": {
-    "descr": "<b>При раскрытии: </b>добавляет случайную карту с базовой стоимостью 1 или 2 в вашу руку.",
+    "descr": "<b>При раскрытии: </b>добавляет случайную карту стоимостью 2 в вашу руку.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MariaHill-infinity.webp"
   },
@@ -855,7 +855,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Modok-infinity.webp"
   },
   "Моджо": {
-    "descr": "<b>Постоянно: </b>+6 к силе, если оба игрока имеют по 4 карты на этой локации.",
+    "descr": "<b>Постоянно: </b>если у обоих игроков эта локация заполнена, +6 к силе.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Mojo-infinity.webp"
   },
@@ -1370,7 +1370,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/TyphoidMary-infinity.webp"
   },
   "Наблюдатель Уату": {
-    "descr": "Если эта карта побывала у вас в руке, вы можете видеть ещё не раскрытые локации.",
+    "descr": "В начале матча показывает вам локацию справа.",
     "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Uatu-infinity.webp"
   },
