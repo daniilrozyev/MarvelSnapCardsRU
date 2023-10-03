@@ -105,9 +105,59 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackCat-infinity.webp"
   },
   "Чёрный Рыцарь": {
-    "descr": "Когда эта карта будет уничтожена, вытяните карту.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "После того, как вы сбросите карту, добавляет в вашу руку Эбонитовый Клинок с силой сброшенной карты (один раз за матч).",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackKnight-infinity.webp"
+  },
+  "Эбонитовый Клинок": {
+    "descr": "«Сияние черного клинка».",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/EbonyBlade-infinity.webp"
+  },
+  "Нико Минору": {
+    "descr": "<b>При раскрытии: </b>после того, как вы разыграете следующую карту, накладывает заклинание (заклинание меняется на каждом ходу).",
+    "category": "5 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Нико Минору Заклинание 1": {
+    "descr": "<b>При раскрытии: </b>после того, как вы разыграете следующую карту, она становится Демоном.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Нико Минору Заклинание 2": {
+    "descr": "<b>При раскрытии: </b>после того, как вы разыграете свою следующую карту, уничтожьте ее и вытяните две карты.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Нико Минору Заклинание 3": {
+    "descr": "<b>При раскрытии: </b>после того как вы разыграете следующую карту, переместите ее на одну локацию вправо.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Нико Минору Заклинание 4": {
+    "descr": "<b>При раскрытии: </b>после того как вы разыграете следующую карту, даёт ей +2 к силе.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Нико Минору Заклинание 5": {
+    "descr": "<b>При раскрытии: </b>после того как вы разыграете следующую карту, замените локацию этой карты.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Нико Минору Заклинание 6": {
+    "descr": "<b>При раскрытии: </b>после того как вы разыграете следующую карту, добавьте ее копию в руку.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Нико Минору Заклинание 7": {
+    "descr": "<b>При раскрытии: </b>после того, как вы разыграете следующую карту, удвойте силу этой карты.",
+    "category": "Другое: Присутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+  },
+  "Ночной оборотень": {
+    "descr": "После того, как вы разыграете карту со способностью «при раскрытии» на другой локации, перемещается туда и получает +2 к силе.",
+    "category": "5 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/WerewolfByNight-infinity.webp"
   },
   "Чёрная Пантера": {
     "descr": "<b>При раскрытии: </b>удваивает силу этой карты.",
@@ -335,9 +385,14 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Elektra-infinity.webp"
   },
   "Эльза Бладстоун": {
-    "descr": "В конце каждого хода, если вы выигрываете эту локацию, +1 к силе.",
-    "category": "Другое: Отсутствует в игре",
+    "descr": "Если вы разыгрываете другую карту, чтобы заполнить локацию, даёт ей +3 к силе.",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ElsaBloodstone-infinity.webp"
+  },
+  "Леший": {
+    "descr": "<b>Постоянно: </b>карты с базовой стоимостью 1, 2 или 3 получают здесь -2 к силе.",
+    "category": "4 серия",
+    "imgUrl": "https://static.marvelsnap.pro/cards/ManThing-infinity.webp"
   },
   "Чаровница": {
     "descr": "<b>При раскрытии: </b>убирает постоянные способности всех карт на этой локации.",
