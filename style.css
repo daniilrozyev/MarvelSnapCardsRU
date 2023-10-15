@@ -90,6 +90,16 @@ input::-webkit-input-placeholder {
   color: #fff;
 }
 
+@font-face {
+  font-family: 'Comicraft CCUltimatum';
+  font-style: italic;
+  font-weight: bold;
+  src: local('Crimson Text'),
+    url('/fonts/Comicraft CCUltimatum Bold Italic.woff2') format('woff2'),
+    url('/fonts/Comicraft CCUltimatum Bold Italic.woff') format('woff'),
+    url('/fonts/Comicraft CCUltimatum Bold Italic.eot') format('otf');
+}
+
 body {
   background-color: #13171b;
   font-family: 'Roboto', sans-serif;
@@ -402,6 +412,26 @@ a.tablinks {
 
 .btn-up_hide {
   display: none;
+}
+
+.title {
+  font-family: 'Comicraft CCUltimatum';
+  display: flex;
+  /* flex-basis: 25%; */
+  width: 300px;
+  /* margin: 0 10px 10px 0; */
+  margin-right: 10px;
+  margin-bottom: 10px;
+  /* flex-flow: wrap; */
+  /* flex-basis: 25%; */
+  justify-content: center;
+  align-items: center;
+  /* background-color: #2e363f; */
+  background-color: rgb(32, 37, 43);
+  padding: 10px;
+  border-radius: 10px;
+  border: solid 1px #434a56;
+  color: #7af5f0;
 }
 
 /* @media (hover: hover) and (pointer: fine) {
