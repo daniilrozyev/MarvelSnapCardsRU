@@ -416,6 +416,7 @@ a.tablinks {
 
 .title {
   font-family: 'Comicraft CCUltimatum';
+  font-style: italic;
   display: flex;
   /* flex-basis: 25%; */
   width: 300px;
