@@ -18,6 +18,7 @@ fetch('./titleBaseJSON.json') // Укажите правильный путь к
 
     data.forEach((title) => {
       const titleElem = document.createElement('div');
+      titleElem.classList.add('card');
       titleElem.classList.add('title');
       titleElem.innerHTML = `<b>${title}</b>`;
 
