@@ -1,0 +1,830 @@
+{
+  "Алтарь смерти": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, уничтожает ее, чтобы получить +2 к энергии на следующем ходу.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/altar-of-death.webp?v=133"
+  },
+  "Асгард": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После 4-го хода побеждающий здесь игрок вытягивает 2 карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/asgard.webp?v=133"
+  },
+  "Астероид М": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыграете карту с базовой стоимостью 3 или 4, она перемещается сюда.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/asteroid-m.webp?v=133"
+  },
+  "Атлантида": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "+5 к силе, если у вас здесь только одна карта.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/atlantis.webp?v=133"
+  },
+  "Аттилан": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "После 3-го хода подтасовывает вашу руку в вашу колоду. Берете карты (3).",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/attilan.webp?v=133"
+  },
+  "У Тёти Мэй": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Первая разыгранная вами здесь карта получает +3 к силе и перемещается.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/aunt-mays.webp?v=133"
+  },
+  "Штаб-квартира Мстителей": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "На 5-м ходу все карты должны быть разыграны здесь.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/avengers-compound.webp?v=133"
+  },
+  "Владения Зловещего": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, ее копии заполнят эту локацию.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bar-sinister.webp?v=133"
+  },
+  "Бар без Названия": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "На этой локации побеждает игрок с наименьшей силой.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/bar-with-no-name.webp?v=133"
+  },
+  "Здание Бакстера": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Тот, кто побеждает на этой локации, получает +3 к силе на остальных.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/baxter-building.webp?v=133"
+  },
+  "Лагерь «Лихай»": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Даёт по случайной карте с базовой стоимостью 3 в руку каждому игроку.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/camp-lehigh.webp?v=133"
+  },
+  "Замок Блэкстоун": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Выигрывающий здесь игрок получает +1 к энергии на каждом ходу.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/castle-blackstone.webp?v=133"
+  },
+  "Центральный парк": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Добавляет карту «Белка (check)» на каждую локацию.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/central-park.webp?v=133"
+  },
+  "Чаны для клонирования": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, добавляет в вашу руку ее копию.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/cloning-vats.webp?v=133"
+  },
+  "Обрушившаяся шахта": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Эта локация заполняется Скалами. Пропустите ход, чтобы уничтожить свои Скалы.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/collapsed-mine.webp?v=133"
+  },
+  "Контр-Земля": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, создает копию в этой локации.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/counter-earth.webp?v=133"
+  },
+  "Красный Космос": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь нельзя разыгрывать карты, которые стоят 1, 2 или 3.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crimson-cosmos.webp?v=133"
+  },
+  "Кристальные башни": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "После 3-го хода подтасовывает вашу руку в вашу колоду. Берете карты (3).",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/crystal-towers.webp?v=133"
+  },
+  "The Daily Bugle": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Получите копию карты из руки противника.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/daily-bugle.webp?v=133"
+  },
+  "Комната опасности": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "У разыгранных здесь карт есть 25% шанс быть уничтоженными.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/danger-room.webp?v=133"
+  },
+  "Темное измерение": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Разыгранные здесь карты не будут раскрываться до конца игры.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dark-dimension.webp?v=133"
+  },
+  "Обитель Смерти": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, уничтожает ее.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deaths-domain.webp?v=133"
+  },
+  "Глубокий космос": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Текст карт не применяется здесь.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/deep-space.webp?v=133"
+  },
+  "Район Икс": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Заменяет обе колоды на случайные карты (10).",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/district-x.webp?v=133"
+  },
+  "Измерение снов": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "На 5-м ходу карты стоят на 1 больше.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/dream-dimension.webp?v=133"
+  },
+  "Эго": {
+    "rarity": "Супер редкая",
+    "status": "Присутствует в игре",
+    "descr": "Эго берёт верх и разыгрывает ваши карты за вас.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ego.webp?v=133"
+  },
+  "Элизиум": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты стоят на 1 меньше.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/elysium.webp?v=133"
+  },
+  "Хребет Вечности": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После 3-го хода на сторону проигрывающего на локации игрока добавляется Глыба.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/eternity-range.webp?v=133"
+  },
+  "Башня Фиска": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "При перемещении сюда карта уничтожается.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fisk-tower.webp?v=133"
+  },
+  "Затоплено": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь нельзя разыгрывать карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flooded.webp?v=133"
+  },
+  "Затопление": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Это последний ход, на котором здесь можно разыграть карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/flooding.webp?v=133"
+  },
+  "Тренажёрный зал Фогвелла": {
+    "rarity": "Супер редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Оба игрока получат в два раза больше бустеров за этот матч.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fogwells-gym.webp?v=133"
+  },
+  "Гамма-лаборатория": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "После 3-го хода все карты здесь превращаются в карту «Халк».",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/gamma-lab.webp?v=133"
+  },
+  "Геноша": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Вы можете перемещать карты на эту локацию.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/genosha.webp?v=133"
+  },
+  "Центральный вокзал": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Кладет здесь по карте из руки каждого игрока после 5-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/grand-central.webp?v=133"
+  },
+  "Великая Паутина": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "После каждого хода перемещает одну карту случайного игрока в Паутину.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/great-web.webp?v=133"
+  },
+  "Хала": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После 4-го хода уничтожает здесь все карты проигрывающего игрока.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hala.webp?v=133"
+  },
+  "Адская кухня": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Берете карту с базовой стоимостью 1 из своей колоды.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hells-kitchen.webp?v=133"
+  },
+  "Клуб Адского пламени": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь нельзя разыгрывать карты, которые стоят 1.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hellfire-club.webp?v=133"
+  },
+  "Отель «Инферно»": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "После того, как вы разыграете карту здесь на этом ходу, уничтожает верхнюю карту колоды вашего противника.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/hotel-inferno.webp?v=133"
+  },
+  "Остров тишины": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь не работают <b>постоянные</b> эффекты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/isle-of-silence.webp?v=133"
+  },
+  "Йотунхейм": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "После каждого хода все карты здесь теряют 1 ед. силы.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/jotunheim.webp?v=133"
+  },
+  "К'унь-Лунь": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "+2 к силе карты, когда она перемещается сюда.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kun-lun.webp?v=133"
+  },
+  "Камар-Тадж": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Эффекты <b>«При раскрытии»</b> срабатывают на этой локации дважды.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kamar-taj.webp?v=133"
+  },
+  "Клинтар": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "После 4-го хода объединяет ваши карты здесь в карту «Симбионт».",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/klyntar.webp?v=133"
+  },
+  "Знамогде": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Эффекты <b>«При раскрытии»</b> не срабатывают на этой локации.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/knowhere.webp?v=133"
+  },
+  "Кракоа": {
+    "rarity": "Супер редкая",
+    "status": "Отсутствует в игре",
+    "descr": "На 5-м ходу начинает разыгрывать карты за всех игроков.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/krakoa.webp?v=133"
+  },
+  "Килн": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После 4-го хода нельзя больше разыгрывать здесь карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/kyln.webp?v=133"
+  },
+  "Озеро Эллада": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты с начальной стоимостью 1 получают здесь +2 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lake-hellas.webp?v=133"
+  },
+  "Ламентис-1": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Вытяните карты (3), после чего обе колоды уничтожатся.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lamentis-1.webp?v=133"
+  },
+  "Лечугилья": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, подтасовывает Скалы (3) в вашу колоду.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lechuguilla.webp?v=133"
+  },
+  "Лемурия": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "На этом ходу карты не раскрываются.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lemuria.webp?v=133"
+  },
+  "Лимбо": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "В этом матче будет 7-й ход.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/limbo.webp?v=133"
+  },
+  "База Лос-Дьяблос": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Превращает случайную локацию в руины после 3-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/los-diablos-base.webp?v=133"
+  },
+  "Бар Люка": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, возвращает ее вам в руку.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/lukes-bar.webp?v=133"
+  },
+  "Мир машин": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, добавляет ее копию в руку противника.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/machineworld.webp?v=133"
+  },
+  "Мадрипур": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Вы можете перемещать карты из этой локации.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/madripoor.webp?v=133"
+  },
+  "Милано": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Карты можно разыграть здесь только на 5-м ходу.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/milano.webp?v=133"
+  },
+  "Ментальное пространство": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Обмениваетесь руками в начале 6-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mindscape.webp?v=133"
+  },
+  "Миниатюрная лаборатория": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "На 3-м, 4-м и 5-м ходах карты сюда добавлять нельзя.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/miniaturized-lab.webp?v=133"
+  },
+  "Зеркальное измерение": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Превращается в одну из других локаций на 4-м ходу.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mirror-dimension.webp?v=133"
+  },
+  "Мир Моджо": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "+100 к силе тому, кто имеет здесь больше карт.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mojoworld.webp?v=133"
+  },
+  "Остров монстров": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Добавляет по карте «Монстр» на каждую сторону с силой 9.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/monster-island.webp?v=133"
+  },
+  "Метрополис монстров": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "+3 к силе карте(картам) с наибольшей силой.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/monster-metropolis.webp?v=133"
+  },
+  "Мораг": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "На каждом ходу вы не можете разыгрывать здесь свою первую карту.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/morag.webp?v=133"
+  },
+  "Мать Молд": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, добавляете себе в руку карту «Страж».",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mother-mold.webp?v=133"
+  },
+  "Гора Везувий": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Игроки не могут отступить после 5-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mount-vesuvius.webp?v=133"
+  },
+  "Гора Вундагор": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, сбрасывает карту.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/mt-wundagore.webp?v=133"
+  },
+  "Остров Мьюир": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После каждого хода все карты здесь получают +1 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/muir-island.webp?v=133"
+  },
+  "Мир убийств": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Уничтожает здесь все карты после 3-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/murderworld.webp?v=133"
+  },
+  "Некроша": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты здесь получают -2 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/necrosha.webp?v=133"
+  },
+  "Отрицательная зона": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты здесь получают -3 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/negative-zone.webp?v=133"
+  },
+  "Нью-Йорк": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "На 6-м ходу на эту локацию можно перемещать карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/new-york.webp?v=133"
+  },
+  "Нидавеллир": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты здесь получают +5 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nidavellir.webp?v=133"
+  },
+  "Измерение Нур": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, добавляет «Джинн» в вашу руку.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/noor-dimension.webp?v=133"
+  },
+  "Нова Рома": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Вытягиваете карту.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/nova-roma.webp?v=133"
+  },
+  "Олимпия": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Берете карты (2).",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/olympia.webp?v=133"
+  },
+  "Цитадель Натиска": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "<b>Постоянные</b> эффекты здесь удвоены.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/onslaughts-citadel.webp?v=133"
+  },
+  "Кузница «Ятрышника»": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, добавляете себе в руку Стража.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/orchis-forge.webp?v=133"
+  },
+  "Башня Озкорп": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "После 3-го хода все карты здесь переходят на другую сторону.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/oscorp-tower.webp?v=133"
+  },
+  "Особняк питомцев": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "На этом ходу все карты должны быть разыграны здесь.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pet-mansion.webp?v=133"
+  },
+  "Плезант-Хилл": {
+    "rarity": "Необычная",
+    "status": "Отсутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, вытягиваете карту.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/pleasant-hill.webp?v=133"
+  },
+  "Замок Пландеров": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Здесь можно разыгрывать только карты, которые стоят 6.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/plunder-castle.webp?v=133"
+  },
+  "Проект «Пегас»": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "+5 к энергии на этом ходу.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/project-pegasus.webp?v=133"
+  },
+  "Квантовое измерение": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, ее базовая сила меняется на 2.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quantum-realm.webp?v=133"
+  },
+  "Квантовый тоннель": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Заменяет разыгранную вами здесь карту на карту из вашей колоды.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/quantum-tunnel.webp?v=133"
+  },
+  "Хлипкий мост": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Если после хода здесь осталось более одной карты, они уничтожаются.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/rickety-bridge.webp?v=133"
+  },
+  "Руины": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "-",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/ruins.webp?v=133"
+  },
+  "Сакаар": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Кладет здесь по карте из руки каждого игрока после этого хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sakaar.webp?v=133"
+  },
+  "Санктум Санкторум": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь нельзя разыгрывать карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sanctum-sanctorum.webp?v=133"
+  },
+  "Дикая земля": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Добавляет двух Рапторов на каждую сторону этой локации.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/savage-land.webp?v=133"
+  },
+  "Канализация": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты здесь получают -1 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sewer-system.webp?v=133"
+  },
+  "Царство теней": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Добавляет по карте «Ниндзя» на каждую сторону с силой -2.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shadowland.webp?v=133"
+  },
+  "Лаборатория Шури": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыграете здесь карту, ее сила удвоится.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/shuris-lab.webp?v=133"
+  },
+  "Зловещий Лондон": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, добавляет ее копию на другую локацию.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sinister-london.webp?v=133"
+  },
+  "Соковия": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Сбрасывает по карте из руки каждого игрока.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sokovia.webp?v=133"
+  },
+  "Башня Старка": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Все карты здесь получают +2 к силе после 5-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/stark-tower.webp?v=133"
+  },
+  "Цитадель звёздного света": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "После 4-го хода все локации меняются местами.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/starlight-citadel.webp?v=133"
+  },
+  "Академия Стрэнджа": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После 5-го хода все карты здесь случайным образом перемещаются в другие локации.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/strange-academy.webp?v=133"
+  },
+  "Субтерранея": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Подтасовывает Скалы (5) в каждую колоду.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/subterranea.webp?v=133"
+  },
+  "Т.А.И.Т.И.": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Когда карта сбрасывается или уничтожается, сюда добавляется её копия.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tahiti.webp?v=133"
+  },
+  "Тарнакс IV": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, превращает ее в другую карту с той же стоимостью.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tarnax-iv.webp?v=133"
+  },
+  "Аббатство": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Тот, кто первым положит сюда ровно 2 карт(ы), вытаскивает карту.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-abbey.webp?v=133"
+  },
+  "Радужный мост": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После 4-го хода все карты перемещаются на одну локацию вправо.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-bifrost.webp?v=133"
+  },
+  "Большой дом": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь нельзя разыгрывать карты, которые стоят 4, 5 или 6.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-big-house.webp?v=133"
+  },
+  "Хаб": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Добавляет по случайной карте в руку каждому игроку.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-hub.webp?v=133"
+  },
+  "Айсбокс": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Карта в руках каждого игрока получает +1 к стоимости.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-ice-box.webp?v=133"
+  },
+  "Нексус": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Ваша сила здесь передаётся и другим локациям.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-nexus.webp?v=133"
+  },
+  "Пик": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "У каждой карты в вашей руке меняются местами значения силы и стоимости.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-peak.webp?v=133"
+  },
+  "Рафт": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Первый игрок, который заполнит локацию, вытянет карту с базовой стоимостью 6. Её стоимость станет равна 0.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-raft.webp?v=133"
+  },
+  "Священная линия времени": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Первый игрок, который заполнит локацию, получит копию своей стартовой руки.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-sacred-timeline.webp?v=133"
+  },
+  "Песщаный бар": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Здесь нельзя разыгрывать карты со способностями.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-sandbar.webp?v=133"
+  },
+  "Космический трон": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "У каждого игрока здесь может быть только одна карта.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-space-throne.webp?v=133"
+  },
+  "Сверхпоток": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "+1 энергии на каждом ходу, если у вас здесь нет карт.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-superflow.webp?v=133"
+  },
+  "Трискелион": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Наполняет руку каждого игрока случайными картами.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-triskelion.webp?v=133"
+  },
+  "Убежище": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь нельзя разыгрывать карты на 6-м ходу.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/the-vault.webp?v=133"
+  },
+  "Тронный зал": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь сила самых сильных карт удваивается.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/throne-room.webp?v=133"
+  },
+  "Театр времени": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Копирует последнюю вытащенную вами карту вместо вытаскивания следующей карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/time-theater.webp?v=133"
+  },
+  "Мастерская Тинкерера": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "+1 к энергии на этом ходу.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tinkerers-workshop.webp?v=133"
+  },
+  "Титан": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты с базовой стоимостью 6 стоят на 1 меньше.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/titan.webp?v=133"
+  },
+  "Трансия": {
+    "rarity": "Необычная",
+    "status": "Отсутствует в игре",
+    "descr": "Все локации меняются местами.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/transia.webp?v=133"
+  },
+  "УВИ": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Игра завершается в конце 4-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/tva.webp?v=133"
+  },
+  "Утопия": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "На 4-м ходу карты здесь могут перемещаться.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/utopia.webp?v=133"
+  },
+  "Долина Руки": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "После 5-го хода воскрешает здесь ваши уничтоженные карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/valley-of-the-hand.webp?v=133"
+  },
+  "Вибраниумные шахты": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Если вы разыгрываете здесь карту, подтасовывает карты «Вибраниум» (3) в вашу колоду.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vibranium-mines.webp?v=133"
+  },
+  "Вормир": {
+    "rarity": "Необычная",
+    "status": "Присутствует в игре",
+    "descr": "Первая сыгранная вами здесь карта уничтожается.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/vormir.webp?v=133"
+  },
+  "Ваканда": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Здесь нельзя уничтожать карты.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wakanda.webp?v=133"
+  },
+  "Посольство Ваканды": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "+2 к силе карт в руках игроков.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/wakandan-embassy.webp?v=133"
+  },
+  "Водопад воина": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "После каждого хода карты здесь СРАЖАЮТСЯ! Самые слабые из них уничтожаются.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/warrior-falls.webp?v=133"
+  },
+  "Вашингтон": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Находящиеся здесь карты без способностей получают +3 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/washington-dc.webp?v=133"
+  },
+  "Странный мир": {
+    "rarity": "Редкая",
+    "status": "Присутствует в игре",
+    "descr": "Оба игрока вытягивают карты из колоды противника.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/weirdworld.webp?v=133"
+  },
+  "Вествью": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "На 4-м ходу превращается в новую локацию.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/westview.webp?v=133"
+  },
+  "Белая раскаленная комната": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Первый игрок, который заполнит локацию, получит +3 к максимальной энергии.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-hot-room.webp?v=133"
+  },
+  "Белый дворец": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "Копирует самую дорогостоящую карту из руки вашего противника.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-palace.webp?v=133"
+  },
+  "Мировой корабль": {
+    "rarity": "Супер редкая",
+    "status": "Присутствует в игре",
+    "descr": "Уничтожает другие локации.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/worldship.webp?v=133"
+  },
+  "Особняк Икс": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Добавляет сюда по случайной карте каждому игроку после 3-го хода.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/x-mansion.webp?v=133"
+  },
+  "Зандар": {
+    "rarity": "Обычная",
+    "status": "Присутствует в игре",
+    "descr": "Карты здесь получают +1 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/xandar.webp?v=133"
+  },
+  "База Яшида": {
+    "rarity": "Обычная",
+    "status": "Отсутствует в игре",
+    "descr": "В конце матча уничтожает последнюю добавленную сюда карту.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/yashida-base.webp?v=133"
+  }
+}
