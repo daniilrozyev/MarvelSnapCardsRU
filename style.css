@@ -263,6 +263,92 @@ a.tablinks {
   margin-bottom: 5px;
 }
 
+.card-status {
+  color: white;
+  /* background-color: rgb(96, 45, 220); */
+  background-color: #9801e7;
+  font-size: 0.7em;
+  padding: 2px 5px;
+  border-radius: 15px;
+  min-width: 50px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.card-rarity {
+  color: white;
+  background-color: #000000;
+  font-size: 0.7em;
+  padding: 2px 5px;
+  border-radius: 15px;
+  min-width: 50px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.common {
+  /* background-color: #008000; */
+  background: #134e5e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #71b280,
+    #134e5e
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #71b280,
+    #134e5e
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.uncom {
+  /* background-color: #00bfff; */
+  background: #e52d27; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #b31217,
+    #e52d27
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #b31217,
+    #e52d27
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.rare {
+  /* background-color: #0000ff;
+   */
+  background: #4b6cb7; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #182848,
+    #4b6cb7
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #182848,
+    #4b6cb7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.ultra {
+  /* background-color: #ffd700;
+   */
+  background: #870000; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #190a05,
+    #870000
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #190a05,
+    #870000
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
 .card-title {
   padding: 5px;
   font-size: 0.8em;
