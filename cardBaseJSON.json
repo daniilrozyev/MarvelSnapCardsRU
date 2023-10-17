@@ -175,7 +175,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Martyr-infinity.webp"
   },
   "Джин": {
-    "descr": "<b>При раскрытии: </b>на следующем ходу вы получите +{card.AddedEnergy} к энергии.",
+    "descr": "<b>При раскрытии: </b>на следующем ходу вы получите +2 к энергии.",
     "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/Djinn-infinity.webp"
   },
