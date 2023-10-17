@@ -105,12 +105,12 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackCat-infinity.webp"
   },
   "Чёрный Рыцарь": {
-    "descr": "После того, как вы сбросите карту, добавляет в вашу руку Эбонитовый Клинок с силой сброшенной карты (один раз за матч).",
+    "descr": "После того, как вы сбрасываете карту, добавляет в вашу руку «Эбонитовый Клинок» с силой сброшенной карты (один раз за матч).",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackKnight-infinity.webp"
   },
   "Эбонитовый Клинок": {
-    "descr": "«Сияние черного клинка».",
+    "descr": "«Сияние чёрного клинка».",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/EbonyBlade-infinity.webp"
   },
@@ -390,7 +390,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/ElsaBloodstone-infinity.webp"
   },
   "Леший": {
-    "descr": "<b>Постоянно: </b>карты с базовой стоимостью 1, 2 или 3 получают здесь -2 к силе.",
+    "descr": "<b>Постоянно: </b>сила карт с базовой стоимостью 1, 2 или 3 здесь снижается на 2.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ManThing-infinity.webp"
   },
@@ -740,7 +740,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/LukeCage-infinity.webp"
   },
   "Локи": {
-    "descr": "<b>При раскрытии: </b>заменяет вашу руку картами из стартовой колоды вашего оппонента. Дает им -1 к стоимости.",
+    "descr": "<b>При раскрытии: </b>заменяет вашу руку на карты из стартовой колоды вашего противника. Они стоят на 1 меньше.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Loki-infinity.webp"
   },
@@ -754,8 +754,8 @@
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/RavonnaRenslayer-infinity.webp"
   },
-  "Мёбиус М. Мёбиус": {
-    "descr": "<b>Постоянно: </b>стоимость ваших карт не может быть повышена, а стоимость карт вашего противника не может быть понижена.",
+  "Мобиус М. Мобиус": {
+    "descr": "<b>Постоянно: </b>стоимость ваших карт не может быть увеличена. Стоимость карт вашего противника не может быть снижена.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MobiusMMobius-infinity.webp"
   },
@@ -1165,7 +1165,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSable-infinity.webp"
   },
   "Серебряный Самурай": {
-    "descr": "<b>При раскрытии: </b>каждый игрок сбрасывает карту с самой низкой силой со своей руки.",
+    "descr": "<b>При раскрытии: </b>каждый игрок сбрасывает карту с самой низкой силой из своей руки.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSamurai-infinity.webp"
   },
@@ -1325,7 +1325,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/LivingTribunal-infinity.webp"
   },
   "Сила Феникса": {
-    "descr": "<b>При раскрытии: </b>воскрешает одну из ваших уничтоженных карт и сливается с ней. Эта карта может перемещаться на каждом ходу.",
+    "descr": "<b>При раскрытии: </b>воскрешает одну из ваших уничтоженных карт и объединяется с ней. Эта карта может перемещаться на каждом ходу.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ThePhoenixForce-infinity.webp"
   },
