@@ -122,37 +122,37 @@
   "Нико Минору Заклинание 1": {
     "descr": "<b>При раскрытии: </b>следующая разыгранная вами карта превращается в «Демон».",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/Spell01NicoMinoru-infinity.webp"
   },
   "Нико Минору Заклинание 2": {
     "descr": "<b>При раскрытии: </b>уничтожает следующую разыгранную вами карту и вытаскивает две карты.",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/Spell02NicoMinoru-infinity.webp"
   },
   "Нико Минору Заклинание 3": {
     "descr": "<b>При раскрытии: </b>следующая разыгранная вами карта будет перемещена на одну локацию вправо.",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/Spell03NicoMinoru-infinity.webp"
   },
   "Нико Минору Заклинание 4": {
     "descr": "<b>При раскрытии: </b>следующая разыгранная вами карта получит +2 к силе.",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/Spell04NicoMinoru-infinity.webp"
   },
   "Нико Минору Заклинание 5": {
     "descr": "<b>При раскрытии: </b>заменяет локацию следующей разыгранной вами карты.",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/Spell05NicoMinoru-infinity.webp"
   },
   "Нико Минору Заклинание 6": {
     "descr": "<b>При раскрытии: </b>добавляет копию следующей разыгранной вами карты в вашу руку.",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/Spell06NicoMinoru-infinity.webp"
   },
   "Нико Минору Заклинание 7": {
     "descr": "<b>При раскрытии: </b>после того, как вы разыграете следующую карту, удваивает силу этой карты.",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://static.marvelsnap.pro/cards/NicoMinoru-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/Spell07NicoMinoru-infinity.webp"
   },
   "Ночной оборотень": {
     "descr": "После того, как вы разыграете карту со способностью «при раскрытии» на другой локации, перемещается туда и получает +2 к силе.",
