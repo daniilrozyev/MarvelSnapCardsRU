@@ -1215,16 +1215,16 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSurfer-infinity.webp"
   },
   "Снежный Страж": {
-    "descr": "<b>При раскрытии: </b>добавляет в вашу руку Снежных Стражей: Сокол и Медведь.",
+    "descr": "<b>При раскрытии: </b>добавляет в вашу руку Снежных Стражей: Ястреб и Медведь.",
     "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Snowguard-infinity.webp"
   },
-  "Снежный Страж Сокол": {
+  "Снежный Страж: Ястреб": {
     "descr": "<b>При раскрытии: </b>игнорирует все способности локации до конца следующего хода (или матча).",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/SnowguardHawk-infinity.webp"
   },
-  "Снежный Страж Медведь": {
+  "Снежный Страж: Медведь": {
     "descr": "<b>При раскрытии: </b>активирует эффект этой локации.",
     "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/SnowguardBear-infinity.webp"
