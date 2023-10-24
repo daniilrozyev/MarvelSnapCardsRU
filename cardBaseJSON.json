@@ -450,7 +450,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Flatman-infinity.webp"
   },
   "Кузнец": {
-    "descr": "<b>При раскрытии: </b>даст следующей карте, которую вы разыграете, +3 к силе.",
+    "descr": "<b>При раскрытии: </b>даст следующей карте, которую вы разыграете, +2 к силе.",
     "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Forge-infinity.webp"
   },
@@ -926,7 +926,7 @@
   },
   "Мисс Марвел": {
     "descr": "<b>Постоянно: </b>если это ваша единственная карта здесь, соседние локации получают +5 к силе.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MsMarvel-infinity.webp"
   },
   "Множитель": {
@@ -1207,7 +1207,7 @@
   "Серебряный Самурай": {
     "descr": "<b>При раскрытии: </b>каждый игрок сбрасывает карту с самой низкой силой из своей руки.",
     "category": "5 серия",
-    "imgUrl": "https://static.marvelsnap.pro/cards/SilverSamurai-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/SilverSamurai.webp"
   },
   "Серебряный Сёрфер": {
     "descr": "<b>При раскрытии: </b>остальные ваши карты с базовой стоимостью 3 получают +2 к силе.",
@@ -1245,7 +1245,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Spectrum-infinity.webp"
   },
   "Человек-паук": {
-    "descr": "<b>При раскрытии: </b>ваш противник не сможет разыгрывать карты на этой локации на следующем ходу.",
+    "descr": "<b>При раскрытии: </b>перемещается в другую локацию и перетаскивает карту противника отсюда туда.",
     "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan-infinity.webp"
   },
@@ -1485,7 +1485,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/WhiteQueen-infinity.webp"
   },
   "Белая Тигрица": {
-    "descr": "<b>При раскрытии: </b>добавляет тигра с силой 7 в другую локацию.",
+    "descr": "<b>При раскрытии: </b>добавляет тигра с силой 8 в другую локацию.",
     "category": "1-14 лвл.",
     "imgUrl": "https://static.marvelsnap.pro/cards/WhiteTiger-infinity.webp"
   },
@@ -1522,7 +1522,7 @@
   "X-23": {
     "descr": "Если эта карта сброшена или уничтожена, она восстановится на случайной локации и вы получите +1 к энергии на следующем ходу.",
     "category": "5 серия",
-    "imgUrl": "https://static.marvelsnap.pro/cards/X23-infinity.webp"
+    "imgUrl": "https://static.marvelsnap.pro/cards/X23.webp"
   },
   "Жёлтый Шершень": {
     "descr": "<b>При раскрытии: </b>снижает силу остальных ваших карт в этой локации на 1.",
