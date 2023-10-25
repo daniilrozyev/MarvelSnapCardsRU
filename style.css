@@ -473,9 +473,9 @@ a.tablinks {
     max-width: 540px;
   }
 
-  .tablinks {
+  /* .tablinks {
     min-width: 160px;
-  }
+  } */
 
   .cards {
     justify-content: space-around;
