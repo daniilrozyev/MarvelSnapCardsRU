@@ -45,7 +45,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Angel-infinity.webp"
   },
   "Анжела": {
-    "descr": "Если вы разыгрываете здесь карту, +2 к силе.",
+    "descr": "Если вы разыгрываете здесь карту, +1 к силе.",
     "category": "1 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Angela-infinity.webp"
   },
@@ -425,7 +425,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Elektra-infinity.webp"
   },
   "Эльза Бладстоун": {
-    "descr": "Если вы разыгрываете другую карту, чтобы заполнить локацию, даёт ей +3 к силе.",
+    "descr": "Если вы разыгрываете другую карту, чтобы заполнить локацию, даёт ей +2 к силе.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ElsaBloodstone-infinity.webp"
   },
