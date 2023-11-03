@@ -160,7 +160,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/WerewolfByNight-infinity.webp"
   },
   "Гладиатор": {
-    "descr": "<b>При раскрытии: </b>добавляет карту из колоды вашего противника на его сторону этой локации. Если у нее меньше силы, уничтожает ее.",
+    "descr": "<b>При раскрытии: </b>добавляет карту из колоды вашего противника на его сторону этой локации. Если у неё меньше силы, уничтожает её.",
     "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/Gladiator-infinity.webp"
   },
@@ -960,7 +960,7 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Morph-infinity.webp"
   },
   "Мисс Марвел": {
-    "descr": "<b>Постоянно: </b>если это ваша единственная карта здесь, соседние локации получают +5 к силе.",
+    "descr": "<b>Постоянно: </b>соседние локации, где у ваших карт уникальная стоимость, получают +5 к силе.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MsMarvel-infinity.webp"
   },
