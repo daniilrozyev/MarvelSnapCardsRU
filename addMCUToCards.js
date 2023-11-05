@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const data = fs.readFileSync('cardBaseJSON.json', 'utf8');
+const data = fs.readFileSync('cardBaseJSON3.json', 'utf8');
 
 const cards = JSON.parse(data);
 
