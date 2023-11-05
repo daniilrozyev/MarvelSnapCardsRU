@@ -25,8 +25,10 @@ tablinks.forEach((tablink) => {
 
 // Функция для показа карточек, соответствующих выбранной категории
 function showCards(category) {
+  const searchCategory = new RegExp(`\\b${category}\\b`, 'g');
   cards.forEach((card) => {
-    if (card.dataset.category.includes(category)) {
+    if (card.dataset.category.match(searchCategory)) {
+      // OLD card.dataset.category.includes(category)
       card.style.display = 'flex';
     } else {
       card.style.display = 'none';

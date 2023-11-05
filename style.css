@@ -300,6 +300,55 @@ a.tablinks {
   margin-bottom: 5px;
 }
 
+.mcuStyle {
+  color: white;
+  /* background-color: rgb(96, 45, 220); */
+  background-color: #008700;
+  font-size: 0.7em;
+  padding: 2px 5px;
+  border-radius: 15px;
+  min-width: 50px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+.notmcuStyle {
+  color: white;
+  background-color: #870000;
+  font-size: 0.7em;
+  padding: 2px 5px;
+  border-radius: 15px;
+  min-width: 50px;
+  text-align: center;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-bottom: 5px;
+}
+
+/* .mcu::before { */
+/* content: 'Присутствует в КВМ'; */
+/* padding: 5px; */
+/* display: flex; */
+/* flex-wrap: wrap; */
+/* justify-content: center; */
+/* align-items: center; */
+/* font-size: 14px; */
+/* width: 100px; */
+/* height: 44px; */
+/* text-align: center; */
+/* color: green; */
+/* position: absolute; */
+/* top: calc(50% - 22px); */
+/* left: calc(50% - 50px); */
+/* background-color: green; */
+/* border-radius: 10px; */
+/* width: 100px; */
+/* height: 100px; */
+/* background-color: #9801e7; */
+/* } */
+
 .common {
   /* background-color: #008000; */
   background: #134e5e; /* fallback for old browsers */

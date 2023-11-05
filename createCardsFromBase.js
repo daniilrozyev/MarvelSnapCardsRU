@@ -1581,15 +1581,34 @@ function createCardElement(name, data) {
   const category = getCategory(data.category);
   const imageUrl = data.imgUrl;
   const description = data.descr;
+  const mcu = data.mcu;
 
   // Создание HTML-элементов для карточки
   const card = document.createElement('div');
   card.classList.add('card');
-  card.setAttribute('data-category', category);
+
+  if (mcu === 'is') {
+    card.setAttribute('data-category', `${category} mcu`);
+  } else if (mcu === 'isnot') {
+    card.setAttribute('data-category', `${category} notmcu`);
+  } else {
+    card.setAttribute('data-category', category);
+  }
 
   const cardImage = document.createElement('div');
   cardImage.classList.add('card-image');
   cardImage.style.backgroundImage = `url('${imageUrl}')`;
+
+  const cardStatusMCU = document.createElement('div');
+
+  if (mcu === 'is') {
+    cardStatusMCU.classList.add('mcuStyle');
+    cardStatusMCU.textContent = 'Присутствует в Кино';
+  } else if (mcu === 'isnot') {
+    cardStatusMCU.classList.add('notmcuStyle');
+    cardStatusMCU.textContent = 'Отсутствует в Кино';
+  } else if (mcu === 'other') {
+  }
 
   const cardCategory = document.createElement('div');
   cardCategory.classList.add('card-category');
@@ -1605,6 +1624,11 @@ function createCardElement(name, data) {
 
   // Добавление созданных элементов на страницу
   card.appendChild(cardImage);
+
+  if (mcu !== 'other') {
+    card.appendChild(cardStatusMCU);
+  }
+
   card.appendChild(cardCategory);
   card.appendChild(cardTitle);
   card.appendChild(cardDescription);
