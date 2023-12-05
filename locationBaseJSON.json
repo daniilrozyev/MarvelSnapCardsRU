@@ -67,7 +67,7 @@
   },
   "Замок Блэкстоун": {
     "rarity": "Обычная",
-    "status": "Отсутствует в игре",
+    "status": "Присутствует в игре",
     "descr": "Выигрывающий здесь игрок получает +1 к энергии на каждом ходу.",
     "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/castle-blackstone.webp?v=133"
   },
@@ -811,7 +811,7 @@
   },
   "Белый дворец": {
     "rarity": "Обычная",
-    "status": "Отсутствует в игре",
+    "status": "Присутствует в игре",
     "descr": "Копирует самую дорогостоящую карту из руки вашего противника.",
     "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/white-palace.webp?v=133"
   },
