@@ -281,6 +281,36 @@
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/Stormbreaker-080f1115d8ddb050f612369748f60a554aa93c4c59749e918f4330dc770da90d.webp",
     "mcu": "other"
   },
+  "Кулл Обсидиан": {
+    "descr": "Вы можете разыграть эту карту только на локации с Камнем Бесконечности. <b>Постоянно: </b>невозможно уничтожить.",
+    "category": "Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/CullObsidian-infinity.webp",
+    "mcu": "is"
+  },
+  "Проксима Миднайт": {
+    "descr": "Когда эта карта сброшена, прыгает в вашу локацию с самой низкой силой <i>(которая не заполнена).</i>",
+    "category": "Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/ProximaMidnight-infinity.webp",
+    "mcu": "is"
+  },
+  "Корвус Глэйв": {
+    "descr": "<b>При раскрытии: </b> сбрасывает карты (2 шт.) из вашей руки и вы получите +1 к макс. энергии.",
+    "category": "Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/CorvusGlaive-infinity.webp",
+    "mcu": "is"
+  },
+  "Чёрный Лебедь": {
+    "descr": "<b>При раскрытии: </b>до конца следующего хода ваши карты с базовой стоимостью 1 будут стоить 0.",
+    "category": "Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/BlackSwan-infinity.webp",
+    "mcu": "isnot"
+  },
+  "Супергигант": {
+    "descr": "<b>При раскрытии: </b>все карты, разыгранные на этом и на следующем ходу, не раскрываются до конца матча.",
+    "category": "Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Supergiant-infinity.webp",
+    "mcu": "isnot"
+  },
   "Чёрная Пантера": {
     "descr": "<b>При раскрытии: </b>удваивает силу этой карты.",
     "category": "3 серия",

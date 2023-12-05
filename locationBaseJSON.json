@@ -59,6 +59,18 @@
     "descr": "Тот, кто побеждает на этой локации, получает +3 к силе на остальных.",
     "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/baxter-building.webp?v=133"
   },
+  "Чёрный вихрь": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Первая разыгранная вами здесь карта превращается в случайную карту с базовой стоимостью 6.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/black-vortex.webp?v=133"
+  },
+  "Святилище II": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Добавляет случайный Камень Бесконечности в вашу руку.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/sanctuary-ii.webp?v=133"
+  },
   "Лагерь «Лихай»": {
     "rarity": "Обычная",
     "status": "Присутствует в игре",
