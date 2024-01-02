@@ -241,73 +241,73 @@
   },
   "Скаар": {
     "descr": "Стоит на 2 меньше за каждую из ваших карт с силой 10 или больше.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/Skaar-29567d31beb45f447d65b6090634b2425409446cb8c774fd04562f8abf52ebeb.webp",
     "mcu": "is"
   },
   "Кайера": {
     "descr": "<b>Постоянно: </b>ваши карты с базовой стоимостью 1 и 6 не могут быть уничтожены.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/Caiera-80cb62f474dd668cfdf045921e8a16e70e0f8140c222f3503da343fe8945840c.webp",
     "mcu": "isnot"
   },
   "Геркулес": {
     "descr": "Когда другая карта впервые перемещается сюда на каждом ходу, перемещает её на другую локацию.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/Hercules-f1ed3bcbac3f83ba2b889a87ded2151d6f1a51cb57484adac5e21c1081ba0842.webp",
     "mcu": "is"
   },
   "Грандмастер": {
     "descr": "<b>При раскрытии: </b>перемещает одну из ваших других карт со способностью <b>«при раскрытии»</b> здесь на локацию посередине. Её способность активируется снова.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/GrandMaster-685e5a881c789e0785b502a9d4ff01a90f5f66f0fe233f43508ddd147d02a496.webp",
     "mcu": "is"
   },
   "Миек": {
     "descr": "После каждого хода, если вы сбросите какие-либо карты, получает +1 к силе за каждую и перемещается.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "4 серия",
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/Miek-e55826a3db08b3f4f9b12de4a1e5cd06d3ee9bd4baa82e8c0a8bd4417a8df345.webp",
     "mcu": "is"
   },
   "Бета Рэй Билл": {
     "descr": "<b>При раскрытии: </b>подтасовывает карту «Штормбрейкер» в вашу колоду.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/BetaRayBill-ca1c009c3101aa556b724d6468755187011ff377d6bb5d98286ce8622722e9cb.webp",
     "mcu": "isnot"
   },
   "Штормбрейкер": {
     "descr": "<b>При раскрытии: </b>удваивает силу карты «Бета Рэй Билл».",
-    "category": "Другое: Отсутствует в игре",
+    "category": "Другое: Присутствует в игре",
     "imgUrl": "https://game-assets.snap.fan/card_variant_images/Stormbreaker-080f1115d8ddb050f612369748f60a554aa93c4c59749e918f4330dc770da90d.webp",
     "mcu": "other"
   },
   "Кулл Обсидиан": {
     "descr": "Вы можете разыграть эту карту только на локации с Камнем Бесконечности. <b>Постоянно: </b>невозможно уничтожить.",
-    "category": "Отсутствует в игре",
+    "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/CullObsidian-infinity.webp",
     "mcu": "is"
   },
   "Проксима Миднайт": {
     "descr": "Когда эта карта сброшена, прыгает в вашу локацию с самой низкой силой <i>(которая не заполнена).</i>",
-    "category": "Отсутствует в игре",
+    "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/ProximaMidnight-infinity.webp",
     "mcu": "is"
   },
   "Корвус Глэйв": {
     "descr": "<b>При раскрытии: </b> сбрасывает карты (2 шт.) из вашей руки и вы получите +1 к макс. энергии.",
-    "category": "Отсутствует в игре",
+    "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/CorvusGlaive-infinity.webp",
     "mcu": "is"
   },
   "Чёрный Лебедь": {
     "descr": "<b>При раскрытии: </b>до конца следующего хода ваши карты с базовой стоимостью 1 будут стоить 0.",
-    "category": "Отсутствует в игре",
+    "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackSwan-infinity.webp",
     "mcu": "isnot"
   },
   "Супергигант": {
     "descr": "<b>При раскрытии: </b>все карты, разыгранные на этом и на следующем ходу, не раскрываются до конца матча.",
-    "category": "Отсутствует в игре",
+    "category": "Другое: Отсутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/Supergiant-infinity.webp",
     "mcu": "isnot"
   },
@@ -445,7 +445,7 @@
   },
   "Дакен": {
     "descr": "<b>При раскрытии: </b>добавляет карту «Фрагмент Мурамасы» в вашу руку.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Daken-infinity.webp",
     "mcu": "isnot"
   },
@@ -647,9 +647,9 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/GhostRider-infinity.webp",
     "mcu": "is"
   },
-  "Призрак-Паук": {
+  "Паук-призрак": {
     "descr": "<b>При раскрытии: </b>последняя разыгранная вами карта перемещается сюда.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/GhostSpider-infinity.webp",
     "mcu": "isnot"
   },
@@ -775,7 +775,7 @@
   },
   "Хит-Манки": {
     "descr": "<b>При раскрытии: </b> +2 к силе за каждую разыгранную вами карту на этом ходу.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HitMonkey-infinity.webp",
     "mcu": "isnot"
   },
@@ -787,7 +787,7 @@
   },
   "Утка Говард": {
     "descr": "<b>Постоянно: </b>коснитесь, чтобы увидеть верхнюю карту своей колоды.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HowardTheDuck-infinity.webp",
     "mcu": "is"
   },
@@ -871,7 +871,7 @@
   },
   "Эхо": {
     "descr": "Если ваш противник разыгрывает здесь карту с <b>постоянной</b> способностью, её способности удаляются.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Echo-infinity.webp",
     "mcu": "is"
   },
@@ -931,7 +931,7 @@
   },
   "Китти Прайд": {
     "descr": "Когда эта карта возвращается в вашу руку, получает +1 к силе. Возвращается в начале каждого хода.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/KittyPryde-infinity.webp",
     "mcu": "is"
   },
@@ -961,7 +961,7 @@
   },
   "Леди Смертельный Удар": {
     "descr": "<b>При раскрытии: </b>уничтожает здесь каждую карту, чья сила ниже, чем у этой карты.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/LadyDeathstrike-infinity.webp",
     "mcu": "is"
   },
@@ -1069,7 +1069,7 @@
   },
   "Мастер Молд": {
     "descr": "<b>При раскрытии: </b>добавляет 2 карт(ы) «Страж» в руку противника.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/MasterMold.webp",
     "mcu": "isnot"
   },
@@ -1225,7 +1225,7 @@
   },
   "Сверхзвуковая Боеголовка": {
     "descr": "После того, как здесь разыгрывается вражеская карта, уничтожает её <i>(один раз за матч).</i>",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/NegasonicTeenageWarhead-infinity.webp",
     "mcu": "is"
   },
@@ -1519,7 +1519,7 @@
   },
   "Серебряный Самурай": {
     "descr": "<b>При раскрытии: </b>каждый игрок сбрасывает карту с самой низкой силой из своей руки.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SilverSamurai.webp",
     "mcu": "is"
   },
@@ -1573,7 +1573,7 @@
   },
   "Человек-паук 2099": {
     "descr": "Когда впервые перемещается на локацию, уничтожает там вражескую карту.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SpiderMan2099-infinity.webp",
     "mcu": "isnot"
   },
@@ -1609,13 +1609,13 @@
   },
   "Высота": {
     "descr": "Стоит 1, если ваш противник сбросил карту в этом матче.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stature-infinity.webp",
     "mcu": "is"
   },
   "Стегрон": {
     "descr": "<b>При раскрытии: </b>перемещает вражескую карту из этой локации в другую.",
-    "category": "4 серия",
+    "category": "3 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Stegron-infinity.webp",
     "mcu": "isnot"
   },
@@ -1711,7 +1711,7 @@
   },
   "Сила Феникса": {
     "descr": "<b>При раскрытии: </b>воскрешает одну из ваших уничтоженных карт и объединяется с ней. Эта карта может перемещаться на каждом ходу.",
-    "category": "5 серия",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ThePhoenixForce-infinity.webp",
     "mcu": "is"
   },
