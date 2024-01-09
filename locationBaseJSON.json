@@ -182,7 +182,7 @@
   "Башня Фиска": {
     "rarity": "Обычная",
     "status": "Присутствует в игре",
-    "descr": "При перемещении сюда карта уничтожается.",
+    "descr": "Когда сюда перемещается карта, её сила снижается на 4.",
     "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/fisk-tower.webp?v=133"
   },
   "Затоплено": {
