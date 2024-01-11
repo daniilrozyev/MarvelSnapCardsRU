@@ -1,5 +1,6 @@
 const tablinks = document.querySelectorAll('.tablinks');
 const cards = document.querySelectorAll('.card');
+const hideTags = document.querySelector('#hideTags');
 
 // Открываем вкладки и скрываем соответствующие карточки при загрузке страницы
 window.onload = function () {
@@ -97,3 +98,62 @@ const btnUp = {
 };
 
 btnUp.addEventListener();
+
+hideTags.addEventListener('click', (e) => {
+  e.preventDefault();
+  const mcuStyles = document.querySelectorAll('.mcuStyle');
+  const notMcuStyles = document.querySelectorAll('.notmcuStyle');
+  const cardCategories = document.querySelectorAll('.card-category');
+  const cardRarities = document.querySelectorAll('.card-rarity');
+  const cardStatuses = document.querySelectorAll('.card-status');
+
+  mcuStyles.forEach((mcuStyle) => {
+    if (mcuStyle.style.display !== 'none') {
+      mcuStyle.style.display = 'none';
+      hideTags.innerText = 'Показать теги';
+    } else {
+      hideTags.innerText = 'Скрыть теги';
+      mcuStyle.style.display = 'block';
+    }
+  });
+
+  notMcuStyles.forEach((notMcuStyle) => {
+    if (notMcuStyle.style.display !== 'none') {
+      notMcuStyle.style.display = 'none';
+      hideTags.innerText = 'Показать теги';
+    } else {
+      hideTags.innerText = 'Скрыть теги';
+      notMcuStyle.style.display = 'block';
+    }
+  });
+
+  cardCategories.forEach((cardCategory) => {
+    if (cardCategory.style.display !== 'none') {
+      cardCategory.style.display = 'none';
+      hideTags.innerText = 'Показать теги';
+    } else {
+      hideTags.innerText = 'Скрыть теги';
+      cardCategory.style.display = 'block';
+    }
+  });
+
+  cardRarities.forEach((cardRaritie) => {
+    if (cardRaritie.style.display !== 'none') {
+      cardRaritie.style.display = 'none';
+      hideTags.innerText = 'Показать теги';
+    } else {
+      hideTags.innerText = 'Скрыть теги';
+      cardRaritie.style.display = 'block';
+    }
+  });
+
+  cardStatuses.forEach((cardStatuse) => {
+    if (cardStatuse.style.display !== 'none') {
+      cardStatuse.style.display = 'none';
+      hideTags.innerText = 'Показать теги';
+    } else {
+      hideTags.innerText = 'Скрыть теги';
+      cardStatuse.style.display = 'block';
+    }
+  });
+});

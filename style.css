@@ -228,6 +228,31 @@ a.tablinks {
   outline: 1px solid #9801e7;
 }
 
+#hideTags {
+  color: white;
+  background-color: #20252b;
+  cursor: pointer;
+  padding: 5px;
+  margin: 5px;
+  /* min-width: 200px; */
+  min-height: 30px;
+  border-radius: 15px;
+  text-align: center;
+  border-top: 1px solid #9801e7;
+  text-wrap: wrap;
+  max-width: 80px;
+}
+
+#hideTags:hover {
+  /* border: 1px solid rgb(96, 45, 220); */
+  outline: 1px solid #9801e7;
+}
+
+/* #hideTags:focus {
+  border-bottom: none;
+  outline: 1px solid #9801e7;
+} */
+
 .cards {
   display: flex;
   flex-wrap: wrap;

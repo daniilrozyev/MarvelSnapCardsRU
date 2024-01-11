@@ -1,68 +1,44 @@
 <!DOCTYPE html>
 <html lang="ru">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Создать кастомную карту MARVEL SNAP</title>
-    <link rel="icon" href="/img/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <!-- Container -->
-    <div class="container">
-      <h1 class="header">Создать кастомную карту MARVEL SNAP</h1>
-      <div class="forum-link-wrapper">
-        <h2 class="subheader">Присоединяйтесь к форуму по игре в Telegram:</h2>
-        <a class="forum-link" href="https://t.me/marvelsnapcom"
-          >t.me/marvelsnapcom</a
-        >
-      </div>
-      <!-- Tabs -->
-      <div class="tabs">
-        <a
-          class="tablinks"
-          href="https://daniilrozyev.github.io/MarvelSnapCardsRU"
-          >Все карты</a
-        >
-        <a
-          class="tablinks"
-          href="https://daniilrozyev.github.io/MarvelSnapCardsRU/locations"
-          >Все локации</a
-        >
-        <a
-          class="tablinks"
-          href="https://daniilrozyev.github.io/MarvelSnapCardsRU/titles"
-          >Все титулы</a
-        >
-        <a
-          class="tablinks"
-          href="https://daniilrozyev.github.io/MarvelSnapCardsRU/card-variation-animations"
-          >Анимации карт и вариаций</a
-        >
-        <button class="tablinks active">Создать кастомную карту</button>
-      </div>
-      <!-- Search -->
-      <div class="search-wrapper">
-        <input
-          type="text"
-          id="inputSearch"
-          placeholder="Поиск..."
-          title="Поиск"
-        />
-      </div>
-      <!-- Cards -->
-      <div class="cards" style="width: 100wh; height: 100vh">
-        <iframe
-          src="https://snaptracker.me/custom"
-          width="100%"
-          height="100%"
-          frameborder="0"
-        ></iframe>
-        <!-- End Cards -->
-      </div>
-      <div class="btn-up btn-up_hide"></div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Создать кастомную карту MARVEL SNAP</title>
+  <link rel="icon" href="/img/favicon.ico" type="image/x-icon" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <!-- Container -->
+  <div class="container">
+    <h1 class="header">Создать кастомную карту MARVEL SNAP</h1>
+    <div class="forum-link-wrapper">
+      <h2 class="subheader">Присоединяйтесь к форуму по игре в Telegram:</h2>
+      <a class="forum-link" href="https://t.me/marvelsnapcom">t.me/marvelsnapcom</a>
     </div>
-    <script src="scriptSearch.js" type="module"></script>
-  </body>
+    <!-- Tabs -->
+    <div class="tabs">
+      <a class="tablinks" href="https://daniilrozyev.github.io/MarvelSnapCardsRU">Все карты</a>
+      <a class="tablinks" href="https://daniilrozyev.github.io/MarvelSnapCardsRU/locations">Все локации</a>
+      <a class="tablinks" href="https://daniilrozyev.github.io/MarvelSnapCardsRU/titles">Все титулы</a>
+      <a class="tablinks" href="https://daniilrozyev.github.io/MarvelSnapCardsRU/card-variation-animations">Анимации карт и вариаций</a>
+      <button class="tablinks active">Создать кастомную карту</button>
+      <a class="tablinks" href="https://daniilrozyev.github.io/MarvelSnapCardsRU/persons-on-movies-and-tvseries">Персонажи в Кино</a>
+    </div>
+    <!-- Search -->
+    <div class="search-wrapper">
+      <input type="text" id="inputSearch" placeholder="Поиск..." title="Поиск" />
+    </div>
+    <!-- Cards -->
+    <div class="cards" style="width: 100wh; height: 100vh">
+      <iframe src="https://snaptracker.me/custom" width="100%" height="100%" frameborder="0"></iframe>
+      <!-- End Cards -->
+    </div>
+    <div class="btn-up btn-up_hide"></div>
+  </div>
+  <script src="scriptSearch.js" type="module"></script>
+</body>
+
 </html>
