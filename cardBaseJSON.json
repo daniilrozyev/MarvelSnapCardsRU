@@ -211,13 +211,13 @@
   },
   "Джин": {
     "descr": "<b>При раскрытии: </b>на следующем ходу вы получите +2 к энергии.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "Другое: Присутствует в игре",
     "imgUrl": "https://static.marvelsnap.pro/cards/Djinn-infinity.webp",
     "mcu": "isnot"
   },
   "Себастьян Шоу": {
     "descr": "Если эта карта получает постоянную силу, получаете ещё +2 к силе (независимо от того, где она находится).",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/SebastianShaw-infinity.webp",
     "mcu": "is"
   },
@@ -229,13 +229,13 @@
   },
   "Хавок": {
     "descr": "После каждого хода вы теряете 1 очко максимальной энергии, а эта карта получает +4 к силе.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "4 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Havok-infinity.webp",
     "mcu": "is"
   },
   "Селена": {
     "descr": "<b>При раскрытии: </b>снижает силу карты с наименьшей силой в руке каждого игрока на 3.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Selene-infinity.webp",
     "mcu": "is"
   },
@@ -337,7 +337,7 @@
   },
   "Пузырь": {
     "descr": "<b>При раскрытии: </b>ваша колода объединяется в эту карту (и она получает всю общую силу колоды). <b>Постоянно: </b>не может быть перемещена.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Blob-infinity.webp",
     "mcu": "is"
   },
