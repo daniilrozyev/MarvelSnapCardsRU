@@ -137,13 +137,13 @@ hideTags.addEventListener('click', (e) => {
     }
   });
 
-  cardRarities.forEach((cardRaritie) => {
-    if (cardRaritie.style.display !== 'none') {
-      cardRaritie.style.display = 'none';
+  cardRarities.forEach((cardRarity) => {
+    if (cardRarity.style.display !== 'none') {
+      cardRarity.style.display = 'none';
       hideTags.innerText = 'Показать теги';
     } else {
       hideTags.innerText = 'Скрыть теги';
-      cardRaritie.style.display = 'block';
+      cardRarity.style.display = 'block';
     }
   });
 
