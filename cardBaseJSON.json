@@ -242,43 +242,43 @@
   "Скаар": {
     "descr": "Стоит на 2 меньше за каждую из ваших карт с силой 10 или больше.",
     "category": "5 серия",
-    "imgUrl": "https://game-assets.snap.fan/card_variant_images/Skaar-29567d31beb45f447d65b6090634b2425409446cb8c774fd04562f8abf52ebeb.webp",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Skaar-infinity.webp",
     "mcu": "is"
   },
   "Кайера": {
     "descr": "<b>Постоянно: </b>ваши карты с базовой стоимостью 1 и 6 не могут быть уничтожены.",
     "category": "5 серия",
-    "imgUrl": "https://game-assets.snap.fan/card_variant_images/Caiera-80cb62f474dd668cfdf045921e8a16e70e0f8140c222f3503da343fe8945840c.webp",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Caiera-infinity.webp",
     "mcu": "isnot"
   },
   "Геркулес": {
     "descr": "Когда другая карта впервые перемещается сюда на каждом ходу, перемещает её на другую локацию.",
     "category": "5 серия",
-    "imgUrl": "https://game-assets.snap.fan/card_variant_images/Hercules-f1ed3bcbac3f83ba2b889a87ded2151d6f1a51cb57484adac5e21c1081ba0842.webp",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Hercules-infinity.webp",
     "mcu": "is"
   },
   "Грандмастер": {
     "descr": "<b>При раскрытии: </b>перемещает одну из ваших других карт со способностью <b>«при раскрытии»</b> здесь на локацию посередине. Её способность активируется снова.",
     "category": "5 серия",
-    "imgUrl": "https://game-assets.snap.fan/card_variant_images/GrandMaster-685e5a881c789e0785b502a9d4ff01a90f5f66f0fe233f43508ddd147d02a496.webp",
+    "imgUrl": "https://static.marvelsnap.pro/cards/GrandMaster-infinity.webp",
     "mcu": "is"
   },
   "Миек": {
     "descr": "После каждого хода, если вы сбросите какие-либо карты, получает +1 к силе за каждую и перемещается.",
     "category": "4 серия",
-    "imgUrl": "https://game-assets.snap.fan/card_variant_images/Miek-e55826a3db08b3f4f9b12de4a1e5cd06d3ee9bd4baa82e8c0a8bd4417a8df345.webp",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Miek-infinity.webp",
     "mcu": "is"
   },
   "Бета Рэй Билл": {
     "descr": "<b>При раскрытии: </b>подтасовывает карту «Штормбрейкер» в вашу колоду.",
     "category": "5 серия",
-    "imgUrl": "https://game-assets.snap.fan/card_variant_images/BetaRayBill-ca1c009c3101aa556b724d6468755187011ff377d6bb5d98286ce8622722e9cb.webp",
+    "imgUrl": "https://static.marvelsnap.pro/cards/BetaRayBill-infinity.webp",
     "mcu": "isnot"
   },
   "Штормбрейкер": {
     "descr": "<b>При раскрытии: </b>удваивает силу карты «Бета Рэй Билл».",
     "category": "Другое: Присутствует в игре",
-    "imgUrl": "https://game-assets.snap.fan/card_variant_images/Stormbreaker-080f1115d8ddb050f612369748f60a554aa93c4c59749e918f4330dc770da90d.webp",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Stormbreaker-infinity.webp",
     "mcu": "other"
   },
   "Кулл Обсидиан": {
@@ -289,19 +289,19 @@
   },
   "Проксима Миднайт": {
     "descr": "Когда эта карта сброшена, прыгает в вашу локацию с самой низкой силой <i>(которая не заполнена).</i>",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/ProximaMidnight-infinity.webp",
     "mcu": "is"
   },
   "Корвус Глэйв": {
     "descr": "<b>При раскрытии: </b> сбрасывает карты (2 шт.) из вашей руки и вы получите +1 к макс. энергии.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/CorvusGlaive-infinity.webp",
     "mcu": "is"
   },
   "Чёрный Лебедь": {
     "descr": "<b>При раскрытии: </b>до конца следующего хода ваши карты с базовой стоимостью 1 будут стоить 0.",
-    "category": "Другое: Отсутствует в игре",
+    "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/BlackSwan-infinity.webp",
     "mcu": "isnot"
   },
