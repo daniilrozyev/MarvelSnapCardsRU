@@ -509,6 +509,10 @@ a.tablinks {
   color: #7af5f0;
 }
 
+.statistic {
+  opacity: 0;
+}
+
 /* @media (hover: hover) and (pointer: fine) {
   .btn-up:hover {
     /* background-color: #9801e7; цвет заднего фона при наведении */
