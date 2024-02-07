@@ -311,6 +311,48 @@
     "imgUrl": "https://static.marvelsnap.pro/cards/Supergiant-infinity.webp",
     "mcu": "isnot"
   },
+  "Красный Халк": {
+    "descr": "Если ваш противник заканчивает ход с неизрасходованной энергией, +4 к силе <i>(если карта находится в руке или раскрыта и находится на локации)</i>.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/RedHulk-infinity.webp",
+    "mcu": "is"
+  },
+  "Барон Земо": {
+    "descr": "<b>При раскрытии:</b> добавляет на вашу сторону карту из колоды вашего противника с наименьшей стоимостью здесь.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/BaronZemo-infinity.webp",
+    "mcu": "is"
+  },
+  "Агент США": {
+    "descr": "<b>Постоянно:</b> -1 к силе за каждую из других ваших карт здесь.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/USAgent-infinity.webp",
+    "mcu": "is"
+  },
+  "Белая Вдова": {
+    "descr": "<b>При раскрытии:</b> добавляет карту «Поцелуй Вдовы» с силой -1 на сторону вашего противника здесь.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/WhiteWidow-infinity.webp",
+    "mcu": "is"
+  },
+  "Поцелуй Вдовы": {
+    "descr": "<b>Постоянно:</b> снижает силу остальных ваших карт здесь на -1.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/WidowsKiss-infinity.webp",
+    "mcu": "is"
+  },
+  "Красный Страж": {
+    "descr": "<b>При раскрытии:</b> удаляет текст карты противника с самой низкой силой здесь.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/RedGuardian-infinity.webp",
+    "mcu": "is"
+  },
+  "Валентина": {
+    "descr": "<b>При раскрытии:</b> добавляет случайную карту с базовой стоимостью 6 в вашу руку. Дает ей -2 к стоимости и -2 к силе.",
+    "category": "Другое: Отсутствует в игре",
+    "imgUrl": "https://static.marvelsnap.pro/cards/Valentina-infinity.webp",
+    "mcu": "is"
+  },
   "Пересмешница": {
     "descr": "Стоит на 1 меньше за каждую вашу карту в игре, которая не стартовала в вашей колоде.",
     "category": "5 серия",
@@ -324,13 +366,13 @@
     "mcu": "is"
   },
   "Хоуп Саммерс": {
-    "descr": "После того, как вы разыграете здесь карту, вы получите +2 к энергии на следующем ходу.",
+    "descr": "После того, как вы разыграете здесь карту, вы получите +1 к энергии на следующем ходу.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/HopeSummers-infinity.webp",
     "mcu": "is"
   },
   "Эльф": {
-    "descr": "<b>При раскрытии: </b>меняет местами стоимость всех карт в вашей колоде.",
+    "descr": "<b>При раскрытии:</b> меняет местами стоимость всех карт в вашей колоде, которые стартовали там.",
     "category": "5 серия",
     "imgUrl": "https://static.marvelsnap.pro/cards/Pixie-infinity.webp",
     "mcu": "isnot"

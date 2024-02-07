@@ -83,6 +83,12 @@
     "descr": "Выигрывающий здесь игрок получает +1 к энергии на каждом ходу.",
     "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/castle-blackstone.webp?v=133"
   },
+  "Замок Земо": {
+    "rarity": "Редкая",
+    "status": "Отсутствует в игре",
+    "descr": "Первая разыгранная вами здесь карта переходит на другую сторону.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/castle-zemo.webp?v=133"
+  },
   "Центральный парк": {
     "rarity": "Обычная",
     "status": "Присутствует в игре",
@@ -724,6 +730,12 @@
     "status": "Присутствует в игре",
     "descr": "Здесь сила самых сильных карт удваивается.",
     "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/throne-room.webp?v=133"
+  },
+  "Башня Громовержцев": {
+    "rarity": "Необычная",
+    "status": "Отсутствует в игре",
+    "descr": "После 5-го хода все карты здесь получают 2 к силе.",
+    "imgUrl": "https://marvelsnapzone.com/wp-content/themes/blocksy-child/assets/media/cards/thunderbolts-tower.webp?v=133"
   },
   "Театр времени": {
     "rarity": "Необычная",
